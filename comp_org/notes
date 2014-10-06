@@ -1,0 +1,75 @@
+wires -> latches + clock = flip-flops -> Registers = flip-flops + flip-flops
+
+
+Higher level Programming language: C, Java
+
+	--> Assembly: MIPS, ARM
+		--> Machine Code: Language of (010101, HEX)
+
+Machine Code (processed -->) Control unit --> ALU  >>> Processor
+
+``````````````````````````````````````````````````````````````````````````````````````````````````
+``````````````````````````````````````````````````````````````````````````````````````````````````
+``````````````````````````````````````````````````````````````````````````````````````````````````
+
+MIPS 10-06-14
+
+Master List of the language -->> forms the vocabulary of the language
+
+There is going to be math in every language
+
+Aritimetic Operations
+	
+	Add
+		
+		add a,b,c
+	
+	a = b + c
+
+	
+	# this is a comment
+
+
+	add a, b, c
+	add a, a, d
+	add a, a, e
+	
+	a = b + c
+	a = b + c + d 
+	a = b + c + d + e
+
+	
+	//Subtraction in slides
+
+
+	From C -> MIPS
+
+	// Temporaly variables
+	
+	f = (g + h) - (i + j)
+
+
+OPERANDS	
+ALL of this gets stored in a register
+	- they are made from flip-flops
+	- Primitive used in hardware design
+
+	-Register size = 32 bits
+		->> this is called a word
+
+MEMORY OPERANDS
+	Memory is byte address (8 bits)
+
+	load 	
+		--> 
+	store
+		-->
+
+	MIPS CODE
+	
+		lw destination, constant(register)
+		
+		// C CODE	
+		g = h = A[8];
+	
+		
