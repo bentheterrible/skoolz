@@ -1,5 +1,6 @@
-+--- Ch 29 -- Plant Diversity I ---+
-+---+---+---+---+---+---+---+---+--+
+				+---+---+---+---+---+---+---+---+--+
+				+--- Ch 29 -- Plant Diversity I ---+
+				+---+---+---+---+---+---+---+---+--+
 
 1. Which one of the 5 Eukaryote Clades is are Land Plants in?
 	>>> Archaeplastida
@@ -60,4 +61,215 @@
 	b. 2 flagella on cell or gamete
 	c. cup-shaped chloroplast
 
- 
+14. Why do Volvox and cellular slime mold give insight into the origins of multicellularity?
+	>>> Individual singled cells come together in colonies to function as one.
+	>>> Some members take on different functions (i.e. some fruit and reproduce others are a support and don't pass on their genes)
+
+15. What 2 sub-clades are included in the clade Streptophya?
+	a. Charophytes (paraphyletic)
+	b. Embryophytes (land plants) --> (monophyletic)
+
+16. What 2 Synapomorphies of the clade Streptophyta?
+	a. Similar DNA sequences
+	b. Morphological characters (plant like... I guess)
+
+17. What is the one Synapomorphy b/t Charophyceans and Embryphytes?
+	>>> DNA Similar
+
+18. What are the 4 morphological similarities b/t Charophytes and Embryophytes(plants)?
+	a. circular proteins in cell wall for cellulose synthesis (vs. others w/ straight)
+	b. similar enzymes (photosynthesis efficiency)++
+	c. structure of flagellated sperm similar
+	d. similarities in mitosis (e.g. formation of phragmoplast (microtubules b/t daughter nuclei)) 
+
+19. In what period did land plants arrive on Earth?
+	>>> Ordovician (~475 mya)
+
+20. In what period did vascular plants (seeds) arrive on Earth?
+	>>> Late Silurian (~420 mya)
+
+21. In what period did the first seed plants arrive on Earth?
+	>>> Carboniferous (~360 mya)
+
+22. Until when did vascular seedless plants dominate (period)?
+	>>> b/t Carboniferous and Permian
+
+23. Until when did seed plants dominate (period)?
+	>>> mid-Permian
+
+24. What are the 5 derived plant traits?
+	>>> Apical meristems
+	>>> Alternation of generations
+	>>> Walled spores in sporangia
+	>>> Multicellular gametangia 
+	>>> Multicellular dependant embryos 
+
+25. What are Apical meristems?
+	>>> plant tissue that remains embryonic
+	>>> produces "stem" cells that differentiate into specialized cells
+
+26. What are Alternation of generations?
+	>>> 2 multicellular stages 
+		a. Sporophyte (diploid)
+		b. Gametophyte (haploid)
+
+27. What is the walled spores in sporangia?
+	>>> it is a wall around the spore -- the sporgania is the name of the wall
+
+28. What are multicellular gametangia?
+	>>> Female gametophyte --> organ in which gametes produced
+
+29. What are multicellular dependant embryos?
+	>>> what ever dude..
+
+Alternation of Genernations
+
+30. What happens in the gametophyte phase?
+	>>> multicellular haploid phase that PRODUCES GAMETES(haploid) by mitosis in GAMETANGIA
+
+31. What are the male and female gametangia?
+	>>> male = Antheridia	||	female = Archegonia
+	
+32. What are spores?
+	>>>	haploid reproductive cells formed in sporphyte by meiosis that develop into new organism (gametophye phase)
+
+33.	What are gametes?
+	>>> haploid reproductive cells formed in gametophyte by mitosis that develop into new diploid organism (sporophyte phase)
+
+34. What happens in the sporophyte phase?
+	>>> multicellular diploid stage that PRODUCES SPORES(haploid) my meiosis in SPORANGIA (spore producing organ)
+
+Spores vs. Gametes
+
+35. What is the ploidy (# of sets of chromosomes in the nucleus of a cell) of spores and gametes?
+	>>> haploid for both
+
+36. Where are spores and gametes formed?
+	>>> spores = Sporophyte in sporangium 
+	>>> gamete = Gametophyte in gametangium 
+
+37. How are spores and gametes formed?
+	>>> spores = meiosis (since sporophyte is diploid)
+	>>> gamete = mitosis (since gametophyte is haploid)
+
+38. Where are spores and gametes developed?
+	>>> spores = Gametophyte (w/o fusion)
+	>>> gamete = Sporophyte after fusion w/ another gamete
+
+39. What kind of wall covering do spores and gametes have, if any?
+	>>> spores = Sporopollenin (in plants)
+	>>> gamete = on wall
+
+40. What sub-clade consists of the non-vascular plants?
+	>>> Bryophytes
+
+41. What 3 geniuses consist of the Bryophytes?
+	a. Liverworts
+	b. Hornworts
+	c. Mosses
+
+42. What is vascular tissue?
+	>>> cells form tubes to transport water and nutrients
+
+43. What is Xylem?
+	>>> transport of water and minerals (dead tubular cells in wall --> help support)
+
+44. What is Phloem?
+	>>> transport of sugars, amino acids, & other organic products (living tubular cells)
+
+45.	Are vascular plants seeded or seedless?
+	>>> they are both
+
+46. Do non-vascular plants have seeds?
+	>>> non-vascular plants can ever have seeds, because seed are a more advanced trait
+
+47. How are seedless vascular plants sperm brought to the egg?
+	>>>  the sperm have flagellated sperm with swim to eggs through a film of water (like in Bryophytes)
+	** There is still a heavy reliance on water **
+
+48. What are the 2 clades of seedless vascular plants?
+	>>> Lycophytes || Pterophytes
+
+Vascular Plant Adaptations
+
+49. What are the 4 Vascular Plant Adaptations?
+	a. Sporophyte dominant
+	b. Roots
+	c. Leaves
+	d. Sporophylls
+
+50. What is sporophyte dominant?
+	>>> not dependent upon
+
+51. What do the roots do?
+	>>> provide vertical growth
+	
+53. What do Lyconphytes have in their leaves?
+	>>> MICROphylls: small spineshaded leaves w/ a single strand of vascular tissue
+
+54. What do Pterophytes and all seed plantsn have in their leaves?
+	>>> MEGAphylls: larger leaves w/ complex branching vascular tissue
+
+55. What are Sporophylls?
+	>>> modified leaves that bear sporangia
+
+56. In Lycophyta _____ of the the sporphyll in strobili (cones) has sporangia that produce spores:
+	>>> topside
+
+57. In Pterophyta ____ of the sporophyll has groups of sporangia (sori) that produce spores:
+	>>> underside
+
+58. What is the Sporangia?
+	>>> spore producing organ
+
+59. What is Sorus?
+	>>> group of sporangia
+
+60. What does indusium do?
+	>>> covers most sori
+
+61. What is the difference between homosporous and heterosporous plants?
+	>>> Homo = 1 type of sporangium 
+	>>> Hetr = 2 type of sporangium 
+
+62. Most seedless vascular plants are?	
+	>>> Homosporous
+
+63. Homosporous: have 1 type of sporangium (3 things):
+	a. that produces 1 type of spore
+	b. that grows into a BIsexual gametophyte
+	c. that produces both sperm and eggs (in antheirdia and archegonia)
+
+HOMOSPOROUS DIAGRAM
+----------------------------------------------------------------------------------------------------------
+																		 	     +---> eggs
+																		        /
+Sporophyte --> (Single type of spore) --> (typically a bisexual gametophyte) --|
+																		        \
+																		 	     +---> sperm
+----------------------------------------------------------------------------------------------------------
+
+64. All seed plants and a few seedless vascular plants are?
+	>>> Heterosporous
+
+65. Heterosporous: have 2 types of sporangia (2 things):
+	a. each type produces 1 different type of spore
+	b. spores grow into unisexual gametophytes
+	
+HETEROSPOROUS DIAGRAM
+----------------------------------------------------------------------------------------------------------
+
+				+--> Megaspore --> (Female gametophyte) --> Egg
+			   /
+Sporophytes --+
+			   \
+				+--> Microspore --> (Male gametophyte) --> Sperm
+
+----------------------------------------------------------------------------------------------------------
+
+
+				+---+---+---+---+---+---+---+---+--+
+				+--- Ch 30 -- Plant Diversity II---+
+				+---+---+---+---+---+---+---+---+--+
+
+
