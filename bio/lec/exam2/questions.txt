@@ -1,0 +1,63 @@
++--- Ch 29 -- Plant Diversity I ---+
++---+---+---+---+---+---+---+---+--+
+
+1. Which one of the 5 Eukaryote Clades is are Land Plants in?
+	>>> Archaeplastida
+
+2. What are the 4 Subclades in the Archaeplastida?
+
+	  +--+-- a. Red Algae
+	  |
+	--+	
+	  |     +-- b. Chlorophytes 
+	  |     |
+	  +--+--+		
+	        |	  +-- c. Charophytes
+	        |	  |
+			+--+--+ 
+	        	  |
+	        	  +-- d. Embryophytes
+
+	
+3. What is the Synapomorphy for the Archaeplastida clade?
+	>>> Chloroplasts w/ double membrane
+
+4. How did the Archaeplastida clade acquire its chloroplast?
+	>>> via 1o endosymbiosis
+
+5. Do Red Algae have flagellated gametes?
+	>>> No
+
+6. Where does Red Algae store glucose as starch?
+	>>> OUTSIDE the chloroplasts (in cytoplasm)
+
+7. What type of Cholorphyll does Red Algae have?
+	>>> Cholorphyll a & d AND accessory pigment phycoerythrin
+
+8. What abilities does Cholorphyll a & d AND Phycoerythrin give to Red Algae?
+	>>> Since it is red, it can absorb all the other light on the spectrum except red.
+	>>> Thus, it improves photosynthesis at great depeths in the water (260m)
+
+9. What type of subgroup is Green Algae (i.e. Mono-, Para-, or PolyPhyletic group)?
+	>>> Paraphyletic
+
+10. What 2 groups in the Archaeplasida clade consists of the Green Algae?
+	a. Chlorophytes (monophyletic clade)
+	b. Charophytes (actually also a paraphyletic group) ---> ** Group most closely related to plants **
+
+11. Which three sub-clades consist of the Viridiplantae clade (hint: there are the inner groups)
+	a. Chlorophytes
+	b. Charophytes
+	c. Embryophytes
+
+12. What are the 3 Synapomorphies of the Viridiplantae clade?	 
+	a. Similar DNA sequences
+	b. Contain Chloro. a & b & accessory pigment BETA-CAROTENE
+	c. Stores glucose as starch INSIDE chloroplasts
+
+13. What are the 3 Synapomorphies of the Chlorophyta clade?
+	a. Similar DNA sequence
+	b. 2 flagella on cell or gamete
+	c. cup-shaped chloroplast
+
+ 
