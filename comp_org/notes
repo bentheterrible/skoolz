@@ -89,12 +89,213 @@ array[0] --> zero spaces beyond the base
 array[3] --> three spaces beyond the base
 ...
 
+A[8] is stored in memory address $s3 + 8*4
+
+lw - load word
+sw - store word
+
+Constant Operands
+	
+	s = s + 4;
+
+	>> addi $s0, $s0, 4
+
+		** the 'i' stands for immediate **
+
+Representing Instructions
+
+	- Register names are also mapped to numbers (i.e register 8 --> $t0)
+		
+	// C
+	fruits = num_apples + num_oranges;
+	
+	# MIPS
+	add $s0, $s1, $s2
+
+	Machine Code
+	0000 0010 0011 0010 1000 0000 0010 0000
+
+	Instruction Format
+		_ The layout of an instruction
+		- formed by pieces of the instuction called FIELDS
+
+	// this represents the layout for the machine code 
+
+	|	op	|	rs	|	rt	|	rd	|	shamt	|	funct	|
+
+		6		5		5		5		5			6			<<< num bits
+
+	op: operation code (opcode)
+	rs: first source register number
+	rt: second seource register number
+	rd: destination register number
+	shamt: shift amount
+	....
+
+
+	add $t0, $s1, $s2
+	
+	// decimal representation	
+	|	0	|	17	|	18	|	8	|	0	|	32	|
+
+	// it's pretty annoying to always use binary, so hex is often used because it is easy to convert b/w the two
+
+
+Instruction Format
+
+	- What if we need longer feild?
+		- the load word instruction specifies two registers and a constant
+		- with our current fields, the constant is restricted to 5 or 6 bits
+
+	- Same size ofr all instuctions
+		vs. same format for all instructions
+
+	- The trade off for the MIPS lang:
+		
+		1. R-Type	(arithmetic or logical)
+
+			|	op	|	rs	|	rt	|	rd	|	shamt	|	funct	|
+
+				6		5		5		5		5			6			<<< num bits
+
+
+		2. I-Type	(immediate)
+			
+			|	op	|	rs	|	rt	|		constant or address		 |
+			
+				6		5		5				16						<<< num bits
+			
+
+		3. J-Type	(jump command)
+
+			|	op	|					address						 |
+
+				6							26							<<< num bits
+
+	I-Type (immediate type)
+	
+		+ A 16 bit address allows:
+			> lw and sw to access a range of 8192 words
+			> addi to add constants in a range of +/- 215
+
+	
+	lw $t0, 32($s3)
+
+	Represented use decimal:
+		
+		35		19		8		32
+	--------------------------------------------------------------
+		lw		$s3		$t0		32(constant loaded as itself)
+
+		
+	Represents as Binary:
+	
+		100011	10011	01000	
+		....
+
+	Represented as Hex:
+	
+		0x8E680020	
+
+	- Different formats complacte decoding, but allow 32-bit instructions uniformly
+	- Keep formats as similar as possible
+		> first fields (op) are all the same
+
+From C to Machine Code
+	
+	// C	
+	A[300] = h + A[300];
+	
+	// Assembly
+	lw $t0, 1200($t1)		# $t1 is the base register
+	add $t0, $s2, $t0		# $s2 is h	
+	sw $t0, 1200($t1)
+		
+	// Decimal
+	
+		35		9		8		1200
+		0		18		8		8		0		32
+		43		9		8		1200	
+	
+	// Translated to binary
+		
+		......	
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
 
 
 
