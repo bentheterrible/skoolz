@@ -1,11 +1,59 @@
+
+	Terms:
+		
+		+ Diploid: 
+			ABOUT 			>> contains 2 complete sets of chromosomes
+			CELL DIVISION 	>> reproduce by mitosis -- making two daughter cells of that are exact replicas
+		+ Haploid:
+			ABOUT 			>> contains hald the amount as diploid 
+			CELL DIVISION 	>> results from meiosis 
+
 	
    +-----+---+----+----+---+----+	
    | Ch 29 -- Plant Diversity 1 |
    +-----+---+----+----+---+----+	
+	
+	+---------------------------------------+
+	|Slide_33 --> Alternation of Generations| (n = # of chromosomes)
+	+---------------------------------------+
+		
+		-- Starting right before FERTILIZATION we have 2 haploid cells coming together to from a diploid cell.
+			>> this is fertilization.
+		-- This is kind of like a sperm and an egg coming together to form a new person (i.e. a Zygote)
+		-- So, since a haploid only has 1/2 the amount of chromosomes it needs to create a whole creature,
+		   we need two haploid cells to come together --> this is fertization which forms a Zygote.
+		-- So, upon fertilization the cell transitions from haploid to diploid. 
+		-- The Zygote develops/matures into a bigger cell and eventually moves to the next stage via meiosis
+		-- Meiosis, unlike mitosis, doesn't spilt the chromosomes evenly.
+			>> Upon, meiosis the diploid cell (2n) branches into one (n) becoming the spores and the other (n) the haploid
+			   organism that matures and eventually becomes fertilizited again with another gamete.	
+		
+	+---------------------------------------+
+	|Slide_37 --> Bryophyte Life Cycle		|
+	+---------------------------------------+
 
-	Slide_33 --> Alternation of Generations
-	Slide_37 --> Bryophyte Life Cycle
-	Slide_65 --> Vascular Plant Adaptation
+		-- This Life Cycle is an example of the Alternation of Generations above.
+			>> it's the same idea, but more specific	
+		-- The key thing to note here is that when the spores split via meiosis, they branch into either male or female gametophytes
+		-- This is just like humans --> via meiosis the offspring is either male or female
+			>> male = Antheridia
+			>> female = Archegonia
+		-- So these two haploid (n) cells either male of female, eventually come together when the they want to reproduce	
+		-- The sperm develops in the antheridia(male) and eventually swims to the acheagonium(female) via water (rain)
+			>> *These plants are limited to damp environments in order to reproduce*
+		-- Lo Down:
+				Haploid (n)
+			>> Gametangia: Sperm develops in the Antheridia(male) 
+			>> Water transports sperm to egg in the Achegonium(female) 
+				Diploid (2n)
+			>> Zygote formed!
+			>> Sporphyte: Zygote Develops and splits again.
+
+	+---------------------------------------+
+	|Slide_65 --> Vascular Plant Adaptation	|
+	+---------------------------------------+
+
+		-- 
 
    +-----+---+----+----+---+----+	
    | Ch 30 -- Plant Diversity 2 |
