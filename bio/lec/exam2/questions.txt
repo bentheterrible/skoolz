@@ -316,4 +316,95 @@ Reduced Gametophytes
 				+--- 		Ch 31 -- Fungi	 	---+
 				+---+---+---+---+---+---+---+---+--+
 
-1. 
+1. What are the major subclades of Unikonts(2)?
+	a. Amoebozoans
+	b. Opisthokonts
+	
+2. What are the synapomorphies of this Eukaryote clade(2)?
+	a. single flagellum or are an "amoebae" with no flagellum
+	b. Similar proteins and DNA
+
+3. What are some characteristics of fungi that separte them from plants?
+	a. heterotrophic
+	b. no chlorophyll
+	c. no roots or leaves
+	d. cell walls of chitin
+	
+4. What are the molecular and morphological featers that place fungi(Opisthokonta) closer to plants than animals?
+	a. Molecular homologies: rRNA sequences && amino acid sequences
+	b. Morphological homologies: single posterior flagellum (in fungi only in chytrid fungi)
+		&& 
+		similar mitochondria w/ flat cristae
+	
+5. In particular what do the gametes and mitochondrea of both animal and fungi have in common?
+	>> they have posterior flagellated gametes
+	
+6. What are some species of fungus?
+	>>...
+
+7. What is peculiar about the Armillaria (honey fungus)?
+	>> It's just that ummm... It's very large system
+
+8. Which subclades of fungus are unicellular?  What are these called?
+	>> Ascomycota && Basidiomycota: yeast
+
+9. Do they have both stages or just one?
+	>> ...
+
+10. What are hypae?
+	>> thread-like structures that make the fungi 
+
+11. What are the two types of hypae?
+	a. feeding --> mycelium
+	b. reproductive --> fruiting body 
+
+12. What are the different types of fruiting bodies(4)?
+	a. Zygomycota ==> sporangiophore
+	b. Asomycota  ==> conidiophore
+	c. Asomycota w/ Asci  ==> Asci w/ ascospores
+	d. Basidiomycota ==> basidiospores (basidium acts as a support) 
+
+13.  
+
+
+				+---+---+---+---+---+---+---+---+--+
+				+--- 	Ch 34 -- Vertebrates	---+
+				+---+---+---+---+---+---+---+---+--+
+
+2. What are Chordates (3)?
+
+3. What are the 5 charcteristics common to all Chordates?
+
+4. What is the Notochord?
+
+5. Where does the dorsal hollow nerve chord(DHNC) develop?
+
+6. What is the muscular post-anal tail used for if organism retains it?
+
+7. What is the Endostyle?
+
+8. What are Pharyngeal slits or grooves?
+
+8. What two things functions do Pharyngeal slits?
+
+9. Vertebrata is a group within which subphylum?
+
+9. What are the three subphylums of Chordata?
+
+10. What is characteristic of Lancelets?
+
+12. What are Tunicates?
+
+13. ....
+
+14. Woah dude!
+
+15. Which class of the Subphylum Craniata is an invertibrate?
+
+16. What are some features of Craniates?
+
+19. What is characteristic about the Hagfish?
+
+20. What do Hagfish produce as an of defence?
+
+
