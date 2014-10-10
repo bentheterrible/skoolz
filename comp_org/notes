@@ -222,112 +222,81 @@ From C to Machine Code
 		......	
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////   MIPS 10-10-14 //////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Logical Operations
+
+	Shifts Left 	
+		In C = <<
+		MIPS = sll # shift left logical
+	Shifts Right 
+		In C = >> 
+		MIPS = srl # shift right logical
+
+Shift Operations
 	
+	Shift Left multiplies by 2^i, where i is the number of shifts
+	Shift Right divides by 2^i, where i is the number of shifts
+
+	ex. 0000 1001 (9)
+		Shift Left 4
+		1001 0000
+		= 9 * 2^4
+		= 9 * 16 = 144
 	
+	Bitwise:
+		In C: AND ==> &	 
+		In C: OR  ==> |	 
+		In C: NOT ==> ~	 
 
+		MIPS: and
+		MIPS: or 
+		MIPS: nor 
 
+	AND *mask* helps retreive all the relevant bits
+		ex. if you are only interested in the first 4 LSBs --> 		0110 1101
+			then the mask for this will be 0000 1111
 
+		0110 1101
+	  & 0000 1111
+		---------
+		0000 1101	--> and so we are left with that first 4 LSBs without having to deal with the first 4 MSBs
+	
+Logical Operations with Constants
+	
+	andi --> and immediate
+	ori	--> or immediate	
 
+Branches
 
+	Computer Programs can make decisions
+		-> if-statements, switch statements
+		
+	Branch to a labeled instruction if a condition if true
+		-> othewise, continue sequentially
+	
+	Branch commands:
+		MIPS: beq rs, rt, L1		# beq = branch equal
+		C: if (rs == rt) branch to instruction labeled L1;
+		
+		MIPS: bne rs, rt, L1		# beq = branch not equal
+		C: if (rs != rt) branch to instruction labeled L1;
+			
+		MIPS: j L1
+		C: unconditional jump to instruction labeled L1
 
+	// C code -- Convert to MIPS
+	if (i == j)
+		f = g + h;
+	else 
+		f = g -h;	
+	
+	... (see the slides)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Loops
+	
+		

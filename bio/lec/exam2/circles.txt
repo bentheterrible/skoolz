@@ -7,11 +7,12 @@
 		+ Haploid:
 			ABOUT 			>> contains hald the amount as diploid 
 			CELL DIVISION 	>> results from meiosis 
-
-	
+		
+/////////////////////////////////////
    +-----+---+----+----+---+----+	
    | Ch 29 -- Plant Diversity 1 |
    +-----+---+----+----+---+----+	
+/////////////////////////////////////
 	
 	+---------------------------------------+
 	|Slide_33 --> Alternation of Generations| (n = # of chromosomes)
@@ -42,33 +43,72 @@
 		-- The sperm develops in the antheridia(male) and eventually swims to the acheagonium(female) via water (rain)
 			>> *These plants are limited to damp environments in order to reproduce*
 		-- Lo Down:
-				Haploid (n)
+				[ Haploid (n) ]
 			>> Gametangia: Sperm develops in the Antheridia(male) 
 			>> Water transports sperm to egg in the Achegonium(female) 
-				Diploid (2n)
+				[ Diploid (2n) ]
 			>> Zygote formed!
 			>> Sporphyte: Zygote Develops and splits again.
 
 	+---------------------------------------+
 	|Slide_65 --> Vascular Plant Adaptation	|
 	+---------------------------------------+
+	
+			[ Gametophyte Dominant ]
+		-- This is also a similar concept to the one above...
+		-- Beginning with (1) spores get released --> they are haploid (n)
+		-- Sperm develops in the Antheridia and swims to the Archagonium --> forms a Zygote
 
-		-- 
+			[ Sporophyte Dominant ]
+		-- Gametophyte withers away and the sporophyte grows into a mature adult plant and produces spores in sporangia
+			>> *Probable Test Question*
+				> Where do spore develop in the plant phase?
+					ANS: Sporangia (in the adult phase) 
 
+/////////////////////////////////////
    +-----+---+----+----+---+----+	
    | Ch 30 -- Plant Diversity 2 |
    +-----+---+----+----+---+----+	
+/////////////////////////////////////
+		
+	** Test Question **
+	When does fertilization occurs in relation to pollination?
+		>> Fertilization occurs one year after pollination	
+		
+	+------------------------------------------+
+	|Slide_27 --> Pollination vs. Fertilization|
+	+------------------------------------------+
 
-	Slide_27 --> Pollination vs. Fertilization
-	Slide_45 --> Fertization occurs one year after pollination
-	Slide_47 --> Dispersal
-	Slide_60 --> Angiosperm Life Cycle
+		-- Pollination: Movement of immature (male) gametophyte in pollen grain, near immature (female) gametophyte, in the ovule
+		-- Fertilization: joining of sperm & egg cells within ovule	
+			>> may occur years after pollination!
+	
+
+
+	+-----------------------------------+
+	|Slide_60 --> Angiosperm Life Cycle	|
+	+-----------------------------------+
+		
+		-- **NO Antheridia or Archagonia**
+		-- Starting from the mature flower on the last stage of the sporophyte the plant is a diploid (2n)
+		-- Then the flower slits into (still 2n for both):
+			a. Microsporangium (male)
+				>> via meiosis --> Microspore (n)
+				>> sperm 
+			b. Ovule (female)	
+				>> via meiosis --> Megasporangium (n)
+				>> egg develops
+		-- Fertilization --> Zygote forms
+			
+
 	Slide_62 --> Pollination
 	Slide_64 --> Fruit Development
 
+/////////////////////////////////////
    +-----+---+----+----+---+----+	
    | 		Ch 31 -- Fungi	    |
    +-----+---+----+----+---+----+	
+/////////////////////////////////////
  
 	Slide_18 --> Life history and reproduction
 	Slide_23 --> Generalized reproduction in MULTIcellular fungi
@@ -77,9 +117,11 @@
 	Slide_75 --> Plasmodial Slime Mold Life Cycle
 	Slide_77 --> Cellular Slime Mold Reproduction
 
+/////////////////////////////////////
    +-----+---+----+----+---+----+	
    |Ch 32 -- Intro to Animal Div|
    +-----+---+----+----+---+----+	
+/////////////////////////////////////
 
 	Slide_14 --> Diploid Dominant
 	
