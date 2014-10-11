@@ -1,244 +1,145 @@
+NOTE: The *'ed numbers are the ones that I think are more likely to be test questions.	
+
 				+---+---+---+---+---+---+---+---+--+
 				+--- Ch 29 -- Plant Diversity I ---+
 				+---+---+---+---+---+---+---+---+--+
 
-1. Which one of the 5 Eukaryote Clades is are Land Plants in?
-	>>> Archaeplastida
+2. Which one of the 5 Eukaryote Clades is are Land Plants in?
 
 2. What are the 4 Subclades in the Archaeplastida?
-
-	  +--+-- a. Red Algae
-	  |
-	--+	
-	  |     +-- b. Chlorophytes 
-	  |     |
-	  +--+--+		
-	        |	  +-- c. Charophytes
-	        |	  |
-			+--+--+ 
-	        	  |
-	        	  +-- d. Embryophytes
-
 	
 3. What is the Synapomorphy for the Archaeplastida clade?
-	>>> Chloroplasts w/ double membrane
 
 4. How did the Archaeplastida clade acquire its chloroplast?
-	>>> via 1o endosymbiosis
 
 5. Do Red Algae have flagellated gametes?
-	>>> No
 
-6. Where does Red Algae store glucose as starch?
-	>>> OUTSIDE the chloroplasts (in cytoplasm)
+5. Where does Red Algae store glucose as starch?
 
-7. What type of Cholorphyll does Red Algae have?
-	>>> Cholorphyll a & d AND accessory pigment phycoerythrin
+5. What type of Cholorphyll does Red Algae have?
 
-8. What abilities does Cholorphyll a & d AND Phycoerythrin give to Red Algae?
-	>>> Since it is red, it can absorb all the other light on the spectrum except red.
-	>>> Thus, it improves photosynthesis at great depeths in the water (260m)
+5. What abilities does Cholorphyll a & d AND Phycoerythrin give to Red Algae?
 
-9. What type of subgroup is Green Algae (i.e. Mono-, Para-, or PolyPhyletic group)?
-	>>> Paraphyletic
+7. What type of subgroup is Green Algae (i.e. Mono-, Para-, or PolyPhyletic group)?
 
-10. What 2 groups in the Archaeplasida clade consists of the Green Algae?
-	a. Chlorophytes (monophyletic clade)
-	b. Charophytes (actually also a paraphyletic group) ---> ** Group most closely related to plants **
+7. What 2 groups in the Archaeplasida clade consists of the Green Algae?
 
-11. Which three sub-clades consist of the Viridiplantae clade (hint: there are the inner groups)
-	a. Chlorophytes
-	b. Charophytes
-	c. Embryophytes
+8. Which three sub-clades consist of the Viridiplantae clade (hint: there are the inner groups)
 
-12. What are the 3 Synapomorphies of the Viridiplantae clade?	 
-	a. Similar DNA sequences
-	b. Contain Chloro. a & b & accessory pigment BETA-CAROTENE
-	c. Stores glucose as starch INSIDE chloroplasts
+8. What are the 3 Synapomorphies of the Viridiplantae clade?	 
 
-13. What are the 3 Synapomorphies of the Chlorophyta clade?
-	a. Similar DNA sequence
-	b. 2 flagella on cell or gamete
-	c. cup-shaped chloroplast
+10. What are the 3 Synapomorphies of the Chlorophyta clade?
 
-14. Why do Volvox and cellular slime mold give insight into the origins of multicellularity?
-	>>> Individual singled cells come together in colonies to function as one.
-	>>> Some members take on different functions (i.e. some fruit and reproduce others are a support and don't pass on their genes)
+11. Why do Volvox and cellular slime mold give insight into the origins of multicellularity?
 
-15. What 2 sub-clades are included in the clade Streptophya?
-	a. Charophytes (paraphyletic)
-	b. Embryophytes (land plants) --> (monophyletic)
+12. What 2 sub-clades are included in the clade Streptophya?
 
-16. What 2 Synapomorphies of the clade Streptophyta?
-	a. Similar DNA sequences
-	b. Morphological characters (plant like... I guess)
+12. What 2 Synapomorphies of the clade Streptophyta?
 
-17. What is the one Synapomorphy b/t Charophyceans and Embryphytes?
-	>>> DNA Similar
+14. What is the one Synapomorphy b/t Charophyceans and Embryphytes?
 
-18. What are the 4 morphological similarities b/t Charophytes and Embryophytes(plants)?
-	a. circular proteins in cell wall for cellulose synthesis (vs. others w/ straight)
-	b. similar enzymes (photosynthesis efficiency)++
-	c. structure of flagellated sperm similar
-	d. similarities in mitosis (e.g. formation of phragmoplast (microtubules b/t daughter nuclei)) 
+14. What are the 4 morphological similarities b/t Charophytes and Embryophytes(plants)?
 
-19. In what period did land plants arrive on Earth?
-	>>> Ordovician (~475 mya)
+20. In what period did land plants arrive on Earth?
 
-20. In what period did vascular plants (seeds) arrive on Earth?
-	>>> Late Silurian (~420 mya)
+21. In what period did vascular plants (seeds) arrive on Earth?
 
-21. In what period did the first seed plants arrive on Earth?
-	>>> Carboniferous (~360 mya)
+22. In what period did the first seed plants arrive on Earth?
 
-22. Until when did vascular seedless plants dominate (period)?
-	>>> b/t Carboniferous and Permian
+23. Until when did vascular seedless plants dominate (period)?
 
-23. Until when did seed plants dominate (period)?
-	>>> mid-Permian
+24. Until when did seed plants dominate (period)?
 
-24. What are the 5 derived plant traits?
-	>>> Apical meristems
-	>>> Alternation of generations
-	>>> Walled spores in sporangia
-	>>> Multicellular gametangia 
-	>>> Multicellular dependant embryos 
+25-32. What are the 5 derived plant traits?
 
-25. What are Apical meristems?
-	>>> plant tissue that remains embryonic
-	>>> produces "stem" cells that differentiate into specialized cells
+26. What are Apical meristems?
 
-26. What are Alternation of generations?
-	>>> 2 multicellular stages 
-		a. Sporophyte (diploid)
-		b. Gametophyte (haploid)
+27. What are Alternation of generations?
 
-27. What is the walled spores in sporangia?
-	>>> it is a wall around the spore -- the sporgania is the name of the wall
+30. What is the walled spores in sporangia?
 
-28. What are multicellular gametangia?
-	>>> Female gametophyte --> organ in which gametes produced
+31. What are multicellular gametangia?
 
-29. What are multicellular dependant embryos?
-	>>> what ever dude..
+32. What are multicellular dependant embryos?
 
-Alternation of Genernations
+-- Alternation of Genernations [start]-- 
 
-30. What happens in the gametophyte phase?
-	>>> multicellular haploid phase that PRODUCES GAMETES(haploid) by mitosis in GAMETANGIA
+33. What happens in the gametophyte phase?
 
-31. What are the male and female gametangia?
-	>>> male = Antheridia	||	female = Archegonia
+33. What are the male and female gametangia?
 	
-32. What are spores?
-	>>>	haploid reproductive cells formed in sporphyte by meiosis that develop into new organism (gametophye phase)
+33. What are spores?
 
 33.	What are gametes?
-	>>> haploid reproductive cells formed in gametophyte by mitosis that develop into new diploid organism (sporophyte phase)
 
-34. What happens in the sporophyte phase?
-	>>> multicellular diploid stage that PRODUCES SPORES(haploid) my meiosis in SPORANGIA (spore producing organ)
+33. What happens in the sporophyte phase?
 
-Spores vs. Gametes
+-- Alternation of Genernations [end]-- 
 
-35. What is the ploidy (# of sets of chromosomes in the nucleus of a cell) of spores and gametes?
-	>>> haploid for both
+-- Spores vs. Gametes [table]-- 
 
-36. Where are spores and gametes formed?
-	>>> spores = Sporophyte in sporangium 
-	>>> gamete = Gametophyte in gametangium 
+34. What is the ploidy (# of sets of chromosomes in the nucleus of a cell) of spores and gametes?
 
-37. How are spores and gametes formed?
-	>>> spores = meiosis (since sporophyte is diploid)
-	>>> gamete = mitosis (since gametophyte is haploid)
+34. Where are spores and gametes formed?
 
-38. Where are spores and gametes developed?
-	>>> spores = Gametophyte (w/o fusion)
-	>>> gamete = Sporophyte after fusion w/ another gamete
+34. How are spores and gametes formed?
 
-39. What kind of wall covering do spores and gametes have, if any?
-	>>> spores = Sporopollenin (in plants)
-	>>> gamete = on wall
+34. Where are spores and gametes developed?
 
-40. What sub-clade consists of the non-vascular plants?
-	>>> Bryophytes
+34. What kind of wall covering do spores and gametes have, if any?
 
-41. What 3 geniuses consist of the Bryophytes?
-	a. Liverworts
-	b. Hornworts
-	c. Mosses
+-- Spores vs. Gametes [end]-- 
 
-42. What is vascular tissue?
-	>>> cells form tubes to transport water and nutrients
+35. What sub-clade consists of the non-vascular plants?
 
-43. What is Xylem?
-	>>> transport of water and minerals (dead tubular cells in wall --> help support)
+36. What 3 geniuses consist of the Bryophytes?
 
-44. What is Phloem?
-	>>> transport of sugars, amino acids, & other organic products (living tubular cells)
+50. What is vascular tissue?
 
-45.	Are vascular plants seeded or seedless?
-	>>> they are both
+50. What is Xylem?
 
-46. Do non-vascular plants have seeds?
-	>>> non-vascular plants can ever have seeds, because seed are a more advanced trait
+50. What is Phloem?
 
-47. How are seedless vascular plants sperm brought to the egg?
-	>>>  the sperm have flagellated sperm with swim to eggs through a film of water (like in Bryophytes)
-	** There is still a heavy reliance on water **
+51.	Are vascular plants seeded or seedless?
 
-48. What are the 2 clades of seedless vascular plants?
-	>>> Lycophytes || Pterophytes
+51. Do non-vascular plants have seeds?
 
-Vascular Plant Adaptations
+52. How are seedless vascular plants sperm brought to the egg?
 
-49. What are the 4 Vascular Plant Adaptations?
-	a. Sporophyte dominant
-	b. Roots
-	c. Leaves
-	d. Sporophylls
+53. What are the 2 clades of seedless vascular plants?
 
-50. What is sporophyte dominant?
-	>>> not dependent upon
+-- Vascular Plant Adaptations [start]-- 
 
-51. What do the roots do?
-	>>> provide vertical growth
+57-60. What are the 4 Vascular Plant Adaptations?
+
+57. What is sporophyte dominant?
+
+58. What do the roots do?
 	
-53. What do Lyconphytes have in their leaves?
-	>>> MICROphylls: small spineshaded leaves w/ a single strand of vascular tissue
+59. What do Lyconphytes have in their leaves?
 
-54. What do Pterophytes and all seed plantsn have in their leaves?
-	>>> MEGAphylls: larger leaves w/ complex branching vascular tissue
+59. What do Pterophytes and all seed plantsn have in their leaves?
 
-55. What are Sporophylls?
-	>>> modified leaves that bear sporangia
+60. What are Sporophylls?
 
-56. In Lycophyta _____ of the the sporphyll in strobili (cones) has sporangia that produce spores:
-	>>> topside
+60. In Lycophyta _____ of the the sporphyll in strobili (cones) has sporangia that produce spores:
 
-57. In Pterophyta ____ of the sporophyll has groups of sporangia (sori) that produce spores:
-	>>> underside
+60. In Pterophyta ____ of the sporophyll has groups of sporangia (sori) that produce spores:
 
-58. What is the Sporangia?
-	>>> spore producing organ
+63. What is the Sporangia?
 
-59. What is Sorus?
-	>>> group of sporangia
+62. What is Sorus?
 
-60. What does indusium do?
-	>>> covers most sori
+62. What does indusium do?
 
-61. What is the difference between homosporous and heterosporous plants?
+. What is the difference between homosporous and heterosporous plants?
 	>>> Homo = 1 type of sporangium 
 	>>> Hetr = 2 type of sporangium 
 
-62. Most seedless vascular plants are?	
-	>>> Homosporous
+66. Most seedless vascular plants are?	
 
-63. Homosporous: have 1 type of sporangium (3 things):
-	a. that produces 1 type of spore
-	b. that grows into a BIsexual gametophyte
-	c. that produces both sperm and eggs (in antheirdia and archegonia)
+66. Homosporous: have 1 type of sporangium (3 things):
+
 
 HOMOSPOROUS DIAGRAM
 ----------------------------------------------------------------------------------------------------------
@@ -249,12 +150,11 @@ Sporophyte --> (Single type of spore) --> (typically a bisexual gametophyte) --|
 																		 	     +---> sperm
 ----------------------------------------------------------------------------------------------------------
 
-64. All seed plants and a few seedless vascular plants are?
-	>>> Heterosporous
 
-65. Heterosporous: have 2 types of sporangia (2 things):
-	a. each type produces 1 different type of spore
-	b. spores grow into unisexual gametophytes
+67. All seed plants and a few seedless vascular plants are?
+
+67. Heterosporous: have 2 types of sporangia (2 things):
+
 	
 HETEROSPOROUS DIAGRAM
 ----------------------------------------------------------------------------------------------------------
@@ -407,4 +307,139 @@ Reduced Gametophytes
 
 20. What do Hagfish produce as an of defence?
 
+21. What is the only class of Vertegrates that are jawless?
+
+22. What two Chordate characteristics do Lampreys possess?
+
+22. What is the scientific name for Lampreys?
+
+23. How do Lampreys feed?
+
+25. What two things make up Gnathostomes?
+
+29. What animals make up Chondrichthyes?
+
+30. What kind of skeleton do Chondrichthyes have?
+
+32. What kind of scales do Chondrichthyes have?
+
+34. When do Chondrichthyes mature?
+
+36. What are sharks hunted for?
+
+43. What are the characteristics of Osteichthyes's fins?
+
+43. What kind of endoskeleton do Osteichthyes?
+
+45. What another name for Ray-finned fishes?
+
+46. What is characteristic of Actinopterygii's fins?
+
+47. What does the Operculum do in Actinopterygii (Ray-finned fish)?
+
+47. What is the Operculum analogous to in mammals?
+
+47. What does the swimming bladder do in Actinopterygii (Ray-finned fish)?
+
+48. What is the scientific name form Lobe-fins?
+
+48. What is characteristic about Sarcopterygii (Lobe-fins) and their bone/muscle structure?
+
+49. What is characteristic of Sarcoterygii (Lobe-fins) and their pectoral and pelvic fins?
+
+49. How are Chondrichthyes and Osteichthyes pectoral and pelvic fins anatomical different from Sarcopterygii's?
+
+51. ...
+
+52. What is another name for Dipnoi (common name)?
+
+52. How does Dipnoi (Lungfish) survive in the dry season?
+
+54. What two subclade make up Tetrapods?
+
+55. What two species of animals are still alive that are a part of the lineage of LungFish to Tetrapods (fish -> land animal)?
+
+56. What is the name of the fish that could start walking on land ("fishapod")?
+
+57. ...
+
+58. In what environment did limbs evolve?
+
+58. Why did lungs evolve?
+
+58. Why did legs evolve?
+
+59. ... 
+
+60. [Amphibia] All ____ are ____, but not all ____ are _____.
+
+60. Most Salamanders breathe through what?
+
+60. What is characteristic of Caecilians in the Class Amphiba?
+
+60. [Class Amphibia] Which animals have internal/external fertilization?
+
+64. [Class Amphibia] What is reproduction tied to?
+
+65. What animal consist of Amniotes?
+
+*66*. What adapations allow for Amniotes to be independent from water and avoid desiccation?
+
+67. What are the (4) Extraembryonic membranes that surround embryos? 
+
+67. What does the Amnion do?
+
+67. What does the Allantois do?
+
+67. What does the Chorion do?
+
+67. What does the Yolk sac do?
+
+68. What are the (5) extant lineages of Reptiles?
+
+69. [Turtles & Tortoises] All ____ are ____, but not all ____ are _____.
+
+70. [Crocodilia] All ____ are ____, but not all ____ are _____.
+
+71. What animals make up Lepidosaurs?
+
+71. What kind of fertilization (internal/external) do Lepidosaurs possess?
+
+72. Which species of animal are included w/ reptiles?
+
+73. What is common between avian, nonavian dinosaurs, and modern birds?
+
+73. What were feathers evolved for?
+
+73. What were hollow bones evolved for?
+
+78. What are ectotherms/endotherms?
+
+78. What evolved convergently with birds and mommals?
+
+79. How many chambers are in bird's hearts?
+
+*79*. Are birds endothermic or ectothermic?
+
+80. ...
+
+81. What period did mammal arise in?
+
+81. What are the traits of mammals?
+
+*81*. What are the (3) ways that mammal are categorized based on reproductive differences?
+
+82. What is characteristic about Monotremes amoungst the mammals?
+
+82. Where do Monotremes produce milk?
+
+83. How are younng cared for by Marsupials?
+
+84. What are Eutherians?
+
+85. Where are offspring developed?
+
+86. Though most mammals don't lay eggs, they are still _______!
+
+89. What is characteristic of Primates?
 
