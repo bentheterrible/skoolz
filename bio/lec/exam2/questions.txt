@@ -310,55 +310,96 @@ Sporophytes --+
 				+--- 		Ch 31 -- Fungi	 	---+
 				+---+---+---+---+---+---+---+---+--+
 
-1. What are the major subclades of Unikonts(2)?
-	a. Amoebozoans
-	b. Opisthokonts
+2. What are the major subclades of Unikonts(2)?
 	
 2. What are the synapomorphies of this Eukaryote clade(2)?
-	a. single flagellum or are an "amoebae" with no flagellum
-	b. Similar proteins and DNA
 
-3. What are some characteristics of fungi that separte them from plants?
-	a. heterotrophic
-	b. no chlorophyll
-	c. no roots or leaves
-	d. cell walls of chitin
+3. What are the (4) characteristics of fungi that separte them from plants?
 	
 4. What are the molecular and morphological featers that place fungi(Opisthokonta) closer to plants than animals?
-	a. Molecular homologies: rRNA sequences && amino acid sequences
-	b. Morphological homologies: single posterior flagellum (in fungi only in chytrid fungi)
-		&& 
-		similar mitochondria w/ flat cristae
 	
 5. In particular what do the gametes and mitochondrea of both animal and fungi have in common?
-	>> they have posterior flagellated gametes
 	
-6. What are some species of fungus?
-	>>...
-
 7. What is peculiar about the Armillaria (honey fungus)?
-	>> It's just that ummm... It's very large system
 
 8. Which subclades of fungus are unicellular?  What are these called?
-	>> Ascomycota && Basidiomycota: yeast
 
-9. Do they have both stages or just one?
-	>> ...
+8. Do they have both stages or just one?
 
-10. What are hypae?
-	>> thread-like structures that make the fungi 
+9. What are hypae?
 
-11. What are the two types of hypae?
-	a. feeding --> mycelium
-	b. reproductive --> fruiting body 
+9. What are the two types of hypae?
 
-12. What are the different types of fruiting bodies(4)?
-	a. Zygomycota ==> sporangiophore
-	b. Asomycota  ==> conidiophore
-	c. Asomycota w/ Asci  ==> Asci w/ ascospores
-	d. Basidiomycota ==> basidiospores (basidium acts as a support) 
+10. What are the different types of fruiting bodies(4)?
 
-13.  
+11. What are the cell walls of Fungi mostly made of?
+
+12. What is characteristic of Septate species?
+
+12. What is characteristic of Aseptate species?
+
+13. What do the pores in septa allow for in the hypae?
+
+14. All fungi are ______ heterotrophs.
+
+14. What are the (3) ways in which fungi obtain nourishment?
+
+14. [Nourishment] What is Saprobic?
+
+14. [Nourishment] What is Parasitic?
+
+14. [Nourishment] What is Predatory?
+
+15. What kind of enzymes are secreted in Saprobic Fungi?
+
+16. What are haustorium use for?
+
+19. How do Unicellular Fungi usually reproduce?
+
+20. What are the (3) types of multicellular sexual reproduction in different Eukaryotes?
+
+** I need to go over Haploid Dominant | Diploid Dominant ** 
+
+** So many circles! **
+
+27. Disperal of spores is primarily what?
+
+29. What are the (5) clades of Fungi?
+
+30. What is characteristic of Chytrids?
+
+32. What is characteristic of Zygomycetes?
+
+33. What is characteristic of Glomeromycetes?
+
+34. What is Ecto- / Endomycorrhizae?
+
+35. What is characteristic of Ascomycete?
+
+36. Ascocarps have cells called _____ that produce sexual spores called _______.
+
+36. Conidiophores produce asexual spores called _______.
+
+37. What is characteristic of Basidiomycetes?
+
+39. What are the impacts of Fungi?
+
+40. Fungi are decomposers that are the only ones who breakdown what (2) things?
+
+49. Fungi supplies ____ for plants && plants supply ____ for fungi.
+
+69. What are the (2) clades of Amoebozoa?
+
+69. What are Gymnaboebas?
+
+69. What are Entamoabas?
+
+73. What makes slime mold different from fungi?
+
+
+
+
+
 
 
 				+---+---+---+---+---+---+---+---+--+
