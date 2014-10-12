@@ -132,9 +132,7 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 62. What does indusium do?
 
-. What is the difference between homosporous and heterosporous plants?
-	>>> Homo = 1 type of sporangium 
-	>>> Hetr = 2 type of sporangium 
+66. What is the difference between homosporous and heterosporous plants?
 
 66. Most seedless vascular plants are?	
 
@@ -395,6 +393,33 @@ Sporophytes --+
 69. What are Entamoabas?
 
 73. What makes slime mold different from fungi?
+
+				+---+---+---+---+---+---+---+---+--+--+--+--+--+
+				+--- 	Ch 32 -- Intro to Animal Diversity	---+
+				+---+---+---+---+---+---+---+---+--+--+--+--+--+
+
+2. What are the (2) major subclades of Unikonts?
+
+2. [Opisthokont Synapomorpheis] What are the molecular homologies?
+
+2. [Opisthokont Synapomorpheis] What are the Morphological homologies?
+
+2. _________ = Metazoa
+
+3. What period did the first animal appear in?
+
+3. What period did the Animal Diversification appear in (not Cambrian)?
+
+4. What are the (3) hypotheses of what caused the Cambrian Explosion?
+
+6. [Cell Number] Protists: Mostly _____, some _________
+
+6. [Cell Number] Fungi: Mostly _____, some _________
+
+6. [Cell Number] Plants & Animals: All _______
+
+7. 
+
 
 
 				+---+---+---+---+---+---+---+---+--+
