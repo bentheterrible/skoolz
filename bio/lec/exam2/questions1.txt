@@ -1,0 +1,704 @@
+NOTE: The *'ed numbers are the ones that I think are more likely to be test questions.	
+
+				+---+---+---+---+---+---+---+---+--+
+				+--- Ch 29 -- Plant Diversity I ---+
+				+---+---+---+---+---+---+---+---+--+
+
+2. Which one of the 5 Eukaryote Clades is are Land Plants in?
+
+2. What are the 4 Subclades in the Archaeplastida?
+	
+3. What is the Synapomorphy for the Archaeplastida clade?
+
+4. How did the Archaeplastida clade acquire its chloroplast?
+
+5. Do Red Algae have flagellated gametes?
+
+5. Where does Red Algae store glucose as starch?
+
+5. What type of Cholorphyll does Red Algae have?
+
+5. What abilities does Cholorphyll a & d AND Phycoerythrin give to Red Algae?
+
+7. What type of subgroup is Green Algae (i.e. Mono-, Para-, or PolyPhyletic group)?
+
+7. What 2 groups in the Archaeplasida clade consists of the Green Algae?
+
+8. Which three sub-clades consist of the Viridiplantae clade (hint: there are the inner groups)
+
+8. What are the 3 Synapomorphies of the Viridiplantae clade?	 
+
+10. What are the 3 Synapomorphies of the Chlorophyta clade?
+
+11. Why do Volvox and cellular slime mold give insight into the origins of multicellularity?
+
+12. What 2 sub-clades are included in the clade Streptophya?
+
+12. What 2 Synapomorphies of the clade Streptophyta?
+
+14. What is the one Synapomorphy b/t Charophyceans and Embryphytes?
+
+14. What are the 4 morphological similarities b/t Charophytes and Embryophytes(plants)?
+
+20. In what period did land plants arrive on Earth?
+
+21. In what period did vascular plants (seeds) arrive on Earth?
+
+22. In what period did the first seed plants arrive on Earth?
+
+23. Until when did vascular seedless plants dominate (period)?
+
+24. Until when did seed plants dominate (period)?
+
+25-32. What are the 5 derived plant traits?
+
+26. What are Apical meristems?
+
+27. What are Alternation of generations?
+
+30. What is the walled spores in sporangia?
+
+31. What are multicellular gametangia?
+
+32. What are multicellular dependant embryos?
+
+-- Alternation of Genernations [start]-- 
+
+33. What happens in the gametophyte phase?
+
+33. What are the male and female gametangia?
+	
+33. What are spores?
+
+33. What are gametes?
+
+33. What happens in the sporophyte phase?
+
+-- Alternation of Genernations [end]-- 
+
+-- Spores vs. Gametes [table]-- 
+
+34. What is the ploidy (# of sets of chromosomes in the nucleus of a cell) of spores and gametes?
+
+34. Where are spores and gametes formed?
+
+34. How are spores and gametes formed?
+
+34. Where are spores and gametes developed?
+
+34. What kind of wall covering do spores and gametes have, if any?
+
+-- Spores vs. Gametes [end]-- 
+
+35. What sub-clade consists of the non-vascular plants?
+
+36. What 3 geniuses consist of the Bryophytes?
+
+50. What is vascular tissue?
+
+50. What is Xylem?
+
+50. What is Phloem?
+
+51. Are vascular plants seeded or seedless?
+
+51. Do non-vascular plants have seeds?
+
+52. How are seedless vascular plants sperm brought to the egg?
+
+53. What are the 2 clades of seedless vascular plants?
+
+-- Vascular Plant Adaptations [start]-- 
+
+57-60. What are the 4 Vascular Plant Adaptations?
+
+57. What is sporophyte dominant?
+
+58. What do the roots do?
+	
+59. What do Lyconphytes have in their leaves?
+
+59. What do Pterophytes and all seed plantsn have in their leaves?
+
+60. What are Sporophylls?
+
+60. In Lycophyta _____ of the the sporphyll in strobili (cones) has sporangia that produce spores:
+
+60. In Pterophyta ____ of the sporophyll has groups of sporangia (sori) that produce spores:
+
+63. What is the Sporangia?
+
+62. What is Sorus?
+
+62. What does indusium do?
+
+66. What is the difference between homosporous and heterosporous plants?
+
+66. Most seedless vascular plants are?	
+
+66. Homosporous: have 1 type of sporangium (3 things):
+
+
+HOMOSPOROUS DIAGRAM
+----------------------------------------------------------------------------------------------------------
+																		 	     +---> eggs
+																		        /
+Sporophyte --> (Single type of spore) --> (typically a bisexual gametophyte) --|
+																		        \
+																		 	     +---> sperm
+----------------------------------------------------------------------------------------------------------
+
+
+67. All seed plants and a few seedless vascular plants are?
+
+67. Heterosporous: have 2 types of sporangia (2 things):
+
+	
+HETEROSPOROUS DIAGRAM
+----------------------------------------------------------------------------------------------------------
+
+				+--> Megaspore --> (Female gametophyte) --> Egg
+			   /
+Sporophytes --+
+			   \
+				+--> Microspore --> (Male gametophyte) --> Sperm
+
+----------------------------------------------------------------------------------------------------------
+
+
+				+---+---+---+---+---+---+---+---+--+
+				+--- Ch 30 -- Plant Diversity II---+
+				+---+---+---+---+---+---+---+---+--+
+
+3. Seed plants have dominated for how long?
+
+3. What period did seed plants arrive on Earth?
+
+3. What period did vascular plants arrive on Earth?
+
+3. What period did non-vascular plants arrive on Earth?
+
+5. What are the (4) derived traits of seed plants?
+
+6. [Reduced Gametophyte] Seed plants gametophytes develop from spores ____. 
+
+6. [Reduced Gametophyte] Evolutionary trend towards 2 things:
+
+9. What are the two evolutionary advantages of a miniaturzied gametophyte stage?
+
+10. [Heterospory] How many spores are produced with Homosporous?
+
+10. [Heterospory] Where is the spore produced?
+
+10. [Heterospory] Homospory occurs in most _____?
+
+10. [Heterospory] How many spores are produced with Heterosporous?
+
+10. [Heterospory] What are the two types of Sporophytes produced Heterosporous?
+
+10. [Heterospory] Megasore = _______.
+
+10. [Heterospory] Microspore = _______.
+
+10. [Heterospory] Heterospory occurs in all ____ and a few _____?
+
+12. ...
+
+13. What (2) things do seeds contain?
+
+15. [Pollen] Each microspore develops into a pollen grain containing a _____ gametophyte.
+
+15. [Pollen] How is Pollen transferred to ovule?
+
+17. [Pollination] Movement of immature ____ gametophye, in pollen grain, near the immature ____ gametophyte in the ovule.
+
+17. What are (2) ways that plants get pollinated?
+
+21. What (3) animals pollinate plants?
+
+22. [Insect Pollination] Happens in ____ angiosperm and _____ gymnosperm.
+
+24. [Bird Pollination] Happens in _____ anigosperm only.
+
+25. [Bat Pollination] Happens in _____ anigosperm only.
+
+27. What is pollination?
+
+27. What is fertilization?
+
+27. When does fertilization occur?
+
+28. (table)
+
+29. (table)
+
+30. (table)
+
+32. What are the defining traits of Gymnosperm?
+
+32. What are the (4) clades of Gymnosperm?
+
+33. How have Gymnosperm adapted to dry conditions?
+
+35. What kind of sperm do Ginkgophyta have?
+
+36. When did Cycadophyta flourish (era)?
+
+36. What kind of sperm do Cycadophyta have?
+
+36. Cycads && ginkos are the only (2) seed plants with what?
+
+38. What makes Gnetophyta similar to one another?
+
+39. What is characteristic of Coniferophyta?
+
+40. [Male Cone] ...
+
+41. Immature male gametophytes do not have what?
+
+42. How long does it take for pollen tube formation & spermatogensis to take place?
+
+43. [Female Cone] At the time of pollination ovule is ____ ( and so is the ____ gametophyte in pollen).
+
+44. How long does it take for Ovule Maturation to take place?
+
+*45*. How long after pollination does it take for fertilization to take place?
+
+47. When how long does seed dispersal take place after fertilization/pollination?
+
+48. What is Germination?
+
+49. (table)
+
+52. What is another name of Angiosperms?
+
+54. [Flower Structure & Function] What are Sepals? 
+
+54. [Flower Structure & Function] What are Pedals? 
+
+54. [Flower Structure & Function] What are Stamens? 
+
+54. [Flower Structure & Function] What are Capels? 
+
+54. [Flower Structure & Function] One or more fused carpels are call what? 
+
+55. What are the (3) main Angiosperm clades (bottom 3)?
+
+58. What are the characteristic traits of Monocots && Eudicots?
+
+*59*. What (2) things are absent from the Angiosperm Life Cycle?
+
+61. Male Gametophytes have only (2) cells.  What are they called?
+
+62. What are the (3) main steps of pollination?
+
+*63*. What is characteristic of Angiosperm that doesn't occur else where?
+
+64. Fruit = ________ + ___________.
+
+64. Once the egg is fertilized the surrounding ______ thickens forming a fruit.
+
+65. [Fruit Structure] What is the Pericarp?
+
+67. [Fruit & Dispersal] What are the three type of fruit dispersals?
+
+
+
+				+---+---+---+---+---+---+---+---+--+
+				+--- 		Ch 31 -- Fungi	 	---+
+				+---+---+---+---+---+---+---+---+--+
+
+2. What are the major subclades of Unikonts(2)?
+	
+2. What are the synapomorphies of this Eukaryote clade(2)?
+
+3. What are the (4) characteristics of fungi that separte them from plants?
+	
+4. What are the molecular and morphological featers that place fungi(Opisthokonta) closer to plants than animals?
+	
+5. In particular what do the gametes and mitochondrea of both animal and fungi have in common?
+	
+7. What is peculiar about the Armillaria (honey fungus)?
+
+8. Which subclades of fungus are unicellular?  What are these called?
+
+8. Do they have both stages or just one?
+
+9. What are hypae?
+
+9. What are the two types of hypae?
+
+10. What are the different types of fruiting bodies(4)?
+
+11. What are the cell walls of Fungi mostly made of?
+
+12. What is characteristic of Septate species?
+
+12. What is characteristic of Aseptate species?
+
+13. What do the pores in septa allow for in the hypae?
+
+14. All fungi are ______ heterotrophs.
+
+14. What are the (3) ways in which fungi obtain nourishment?
+
+14. [Nourishment] What is Saprobic?
+
+14. [Nourishment] What is Parasitic?
+
+14. [Nourishment] What is Predatory?
+
+15. What kind of enzymes are secreted in Saprobic Fungi?
+
+16. What are haustorium use for?
+
+19. How do Unicellular Fungi usually reproduce?
+
+20. What are the (3) types of multicellular sexual reproduction in different Eukaryotes?
+
+** I need to go over Haploid Dominant | Diploid Dominant ** 
+
+** So many circles! **
+
+27. Disperal of spores is primarily what?
+
+29. What are the (5) clades of Fungi?
+
+30. What is characteristic of Chytrids?
+
+32. What is characteristic of Zygomycetes?
+
+33. What is characteristic of Glomeromycetes?
+
+34. What is Ecto- / Endomycorrhizae?
+
+35. What is characteristic of Ascomycete?
+
+36. Ascocarps have cells called _____ that produce sexual spores called _______.
+
+36. Conidiophores produce asexual spores called _______.
+
+37. What is characteristic of Basidiomycetes?
+
+39. What are the impacts of Fungi?
+
+40. Fungi are decomposers that are the only ones who breakdown what (2) things?
+
+49. Fungi supplies ____ for plants && plants supply ____ for fungi.
+
+69. What are the (2) clades of Amoebozoa?
+
+69. What are Gymnaboebas?
+
+69. What are Entamoabas?
+
+73. What makes slime mold different from fungi?
+
+				+---+---+---+---+---+---+---+---+--+--+--+--+--+
+				+--- 	Ch 32 -- Intro to Animal Diversity	---+
+				+---+---+---+---+---+---+---+---+--+--+--+--+--+
+
+2. What are the (2) major subclades of Unikonts?
+
+2. [Opisthokont Synapomorpheis] What are the molecular homologies?
+
+2. [Opisthokont Synapomorpheis] What are the Morphological homologies?
+
+2. _________ = Metazoa
+
+3. What period did the first animal appear in?
+
+3. What period did the Animal Diversification appear in (not Cambrian)?
+
+4. What are the (3) hypotheses of what caused the Cambrian Explosion?
+
+6. [Cell Number] Protists: Mostly _____, some _________
+
+6. [Cell Number] Fungi: Mostly _____, some _________
+
+6. [Cell Number] Plants & Animals: All _______
+
+7. What are the cell walls of Plants, Fungi, and Animals made out of?
+
+10. How do Plants, Fungi, and Animals get their nutrition?
+
+12. What is the motility of Plants?
+
+12. What is the motility of Fungi?
+
+12. What is the motility of Animals?
+
+13. What type of life cycle do Animals have?
+
+17. How do most Animals reproduce?
+
+17. Describe the life cycle of Animals in terms of the diploid-haploid dicotomy?
+
+17. What (2) things occur nearly simultaneouls thus called ______?
+
+18. What are the four morphological characteristics used to categorize animal body plans?
+
+18. What are the (3) types of Symmetry?
+
+19. What is Asymetry?
+
+20. What is Radial Symmetry?
+
+21. What is Bilateral Symmetry?
+
+22. What are the (3) types of Embryonic "germ" layer?
+
+23. What is the Embryonic "Germ" Layer?
+
+*23*. What are tissues?
+
+23. What are the four types of tissues?
+
+23. What are the (2) tissues that are unique to Animals?
+
+24. [Formation fo embryonic Germ Layer] What is the Cleavage?
+
+24. [Formation fo embryonic Germ Layer] What is the Blastula?
+
+24. [Formation fo embryonic Germ Layer] What is Gastrulation?
+
+24. [Formation fo embryonic Germ Layer] What is the Ecto- and Endoderm?
+
+25. What are examples of Ectoderm?
+
+25. What are examples of Mesoderm?
+
+25. What are examples of Endoderm?
+
+27. How many tissue layers do sponges have?
+
+28. What is a Diploblastic Body Plan?
+
+29. What is a Triploblastic Body Plan?
+
+30. What are the (3) types of Organization of body cavity?
+
+31. Most Triploblastic phyla have a body cavity also called what?
+
+31. What are the differences between Acoelomates, Coelomates, and Pseudocoelomates?
+
+32. Why does parsimony != phylogeny?
+
+33. What are the (2) developmental modes of Animals?
+
+34. [Protostomes | Deuterostomes] How does the fate of blastopore differ?
+
+35. [Protostomes | Deuterostomes] How the cleavage differ?
+
+36. [Protostomes | Deuterostomes] What are the differences between Spiral and Radial?
+
+37. [Protostomes | Deuterostomes] What are the differences between Determinate and Indeterminate?
+
+38. [Protostomes | Deuterostomes] What are the differences in Coelom formation?
+
+41. What are the (2) types of Possession of vertebral column?
+
+43. What is one thing that we can agree on as far as Metazoa (multicellular animals) and Phylogeny?
+
+44. What are Choanoflagellates?
+
+44. How do we know that Choanoflagellates are similar to Metazoa?
+
+45. What can be agree upon about Porifera (sponges) and their place the phylogenetic tree?
+
+46. What are the early branches of Eumetazoa (clades)?
+
+47. Which clade do most animals belong to?
+
+48. Which (2) clades belong in Deuterostomia morphologically and Molecularly?
+
+49. Study the point of disagreement... :(
+
+50. Study the point of disagreement... :(
+
+51. Study the point of disagreement... :(
+
+52. What (2) clades make up the Ecdysozoa?
+
+53. What is lophophore and trocophore?
+
+				+---+---+---+---+---+---+---+---+--+
+				+--- 	Ch 33 -- Invertebrates	---+
+				+---+---+---+---+---+---+---+---+--+
+2.
+				+---+---+---+---+---+---+---+---+--+
+				+--- 	Ch 34 -- Vertebrates	---+
+				+---+---+---+---+---+---+---+---+--+
+
+2. What are Chordates (3)?
+
+3. What are the 5 charcteristics common to all Chordates?
+
+4. What is the Notochord?
+
+5. Where does the dorsal hollow nerve chord(DHNC) develop?
+
+6. What is the muscular post-anal tail used for if organism retains it?
+
+7. What is the Endostyle?
+
+8. What are Pharyngeal slits or grooves?
+
+8. What two things functions do Pharyngeal slits?
+
+9. Vertebrata is a group within which subphylum?
+
+9. What are the three subphylums of Chordata?
+
+10. What is characteristic of Lancelets?
+
+12. What are Tunicates?
+
+13. ....
+
+14. Woah dude!
+
+15. Which class of the Subphylum Craniata is an invertibrate?
+
+16. What are some features of Craniates?
+
+19. What is characteristic about the Hagfish?
+
+20. What do Hagfish produce as an of defence?
+
+21. What is the only class of Vertegrates that are jawless?
+
+22. What two Chordate characteristics do Lampreys possess?
+
+22. What is the scientific name for Lampreys?
+
+23. How do Lampreys feed?
+
+25. What two things make up Gnathostomes?
+
+29. What animals make up Chondrichthyes?
+
+30. What kind of skeleton do Chondrichthyes have?
+
+32. What kind of scales do Chondrichthyes have?
+
+34. When do Chondrichthyes mature?
+
+36. What are sharks hunted for?
+
+43. What are the characteristics of Osteichthyes's fins?
+
+43. What kind of endoskeleton do Osteichthyes?
+
+45. What another name for Ray-finned fishes?
+
+46. What is characteristic of Actinopterygii's fins?
+
+47. What does the Operculum do in Actinopterygii (Ray-finned fish)?
+
+47. What is the Operculum analogous to in mammals?
+
+47. What does the swimming bladder do in Actinopterygii (Ray-finned fish)?
+
+48. What is the scientific name form Lobe-fins?
+
+48. What is characteristic about Sarcopterygii (Lobe-fins) and their bone/muscle structure?
+
+49. What is characteristic of Sarcoterygii (Lobe-fins) and their pectoral and pelvic fins?
+
+49. How are Chondrichthyes and Osteichthyes pectoral and pelvic fins anatomical different from Sarcopterygii's?
+
+51. ...
+
+52. What is another name for Dipnoi (common name)?
+
+52. How does Dipnoi (Lungfish) survive in the dry season?
+
+54. What two subclade make up Tetrapods?
+
+55. What two species of animals are still alive that are a part of the lineage of LungFish to Tetrapods (fish -> land animal)?
+
+56. What is the name of the fish that could start walking on land ("fishapod")?
+
+57. ...
+
+58. In what environment did limbs evolve?
+
+58. Why did lungs evolve?
+
+58. Why did legs evolve?
+
+59. ... 
+
+60. [Amphibia] All ____ are ____, but not all ____ are _____.
+
+60. Most Salamanders breathe through what?
+
+60. What is characteristic of Caecilians in the Class Amphiba?
+
+60. [Class Amphibia] Which animals have internal/external fertilization?
+
+64. [Class Amphibia] What is reproduction tied to?
+
+65. What animal consist of Amniotes?
+
+*66*. What adapations allow for Amniotes to be independent from water and avoid desiccation?
+
+67. What are the (4) Extraembryonic membranes that surround embryos? 
+
+67. What does the Amnion do?
+
+67. What does the Allantois do?
+
+67. What does the Chorion do?
+
+67. What does the Yolk sac do?
+
+68. What are the (5) extant lineages of Reptiles?
+
+69. [Turtles & Tortoises] All ____ are ____, but not all ____ are _____.
+
+70. [Crocodilia] All ____ are ____, but not all ____ are _____.
+
+71. What animals make up Lepidosaurs?
+
+71. What kind of fertilization (internal/external) do Lepidosaurs possess?
+
+72. Which species of animal are included w/ reptiles?
+
+73. What is common between avian, nonavian dinosaurs, and modern birds?
+
+73. What were feathers evolved for?
+
+73. What were hollow bones evolved for?
+
+78. What are ectotherms/endotherms?
+
+78. What evolved convergently with birds and mommals?
+
+79. How many chambers are in bird's hearts?
+
+*79*. Are birds endothermic or ectothermic?
+
+80. ...
+
+81. What period did mammal arise in?
+
+81. What are the traits of mammals?
+
+*81*. What are the (3) ways that mammal are categorized based on reproductive differences?
+
+82. What is characteristic about Monotremes amoungst the mammals?
+
+82. Where do Monotremes produce milk?
+
+83. How are younng cared for by Marsupials?
+
+84. What are Eutherians?
+
+85. Where are offspring developed?
+
+86. Though most mammals don't lay eggs, they are still _______!
+
+89. What is characteristic of Primates?
+
