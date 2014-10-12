@@ -70,7 +70,7 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 	
 33. What are spores?
 
-33.	What are gametes?
+33. What are gametes?
 
 33. What happens in the sporophyte phase?
 
@@ -100,7 +100,7 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 50. What is Phloem?
 
-51.	Are vascular plants seeded or seedless?
+51. Are vascular plants seeded or seedless?
 
 51. Do non-vascular plants have seeds?
 
@@ -172,45 +172,139 @@ Sporophytes --+
 				+--- Ch 30 -- Plant Diversity II---+
 				+---+---+---+---+---+---+---+---+--+
 
-1. Seed plants have dominated for how long?
-	>> ~275 my
+3. Seed plants have dominated for how long?
 
-2. What period did seed plants arrive on Earth?
-	>> Carboniferous (~360 mya)
+3. What period did seed plants arrive on Earth?
 
 3. What period did vascular plants arrive on Earth?
-	>> Siliurian (~420 mya)
 
-4. What period did non-vascular plants arrive on Earth?
-	>> Ordovician (~475 mya)
+3. What period did non-vascular plants arrive on Earth?
 
-5. What are the 4 derived traits of seed plants?
-	a. reduced gametophyte
-	b. heterospory
-	c. ovules & seeds
-	d. pollen
+5. What are the (4) derived traits of seed plants?
 
-Reduced Gametophytes
+6. [Reduced Gametophyte] Seed plants gametophytes develop from spores ____. 
 
-6. Seed plants gametophytes develop from spores ____. 
-	>> retained INSIDE sporangia
+6. [Reduced Gametophyte] Evolutionary trend towards 2 things:
 
-7. Evolutionary trend towards 2 things:
-	a. reduced portion of life cycle spent as gametophyte
-	b. reduced gametophyte size
+9. What are the two evolutionary advantages of a miniaturzied gametophyte stage?
 
-8. What are the two evolutionary advantages of a miniaturzied gametophyte stage?
-	a. female gametophyte (which produces the egg) can more easily recieve:
-		-- nutrients from sporophyte
-		-- protection by sporophyte from environmental stress
-	b. water unnecessary for:
-		-- reproduction (since sperm easily packaged/delivered in small capsule (pollen grain) via wind/animals directly to female)
-		-- colonization in dry places
+10. [Heterospory] How many spores are produced with Homosporous?
 
-9.  
+10. [Heterospory] Where is the spore produced?
+
+10. [Heterospory] Homospory occurs in most _____?
+
+10. [Heterospory] How many spores are produced with Heterosporous?
+
+10. [Heterospory] What are the two types of Sporophytes produced Heterosporous?
+
+10. [Heterospory] Megasore = _______.
+
+10. [Heterospory] Microspore = _______.
+
+10. [Heterospory] Heterospory occurs in all ____ and a few _____?
+
+12. ...
+
+13. What (2) things do seeds contain?
+
+15. [Pollen] Each microspore develops into a pollen grain containing a _____ gametophyte.
+
+15. [Pollen] How is Pollen transferred to ovule?
+
+17. [Pollination] Movement of immature ____ gametophye, in pollen grain, near the immature ____ gametophyte in the ovule.
+
+17. What are (2) ways that plants get pollinated?
+
+21. What (3) animals pollinate plants?
+
+22. [Insect Pollination] Happens in ____ angiosperm and _____ gymnosperm.
+
+24. [Bird Pollination] Happens in _____ anigosperm only.
+
+25. [Bat Pollination] Happens in _____ anigosperm only.
+
+27. What is pollination?
+
+27. What is fertilization?
+
+27. When does fertilization occur?
+
+28. (table)
+
+29. (table)
+
+30. (table)
+
+32. What are the defining traits of Gymnosperm?
+
+32. What are the (4) clades of Gymnosperm?
+
+33. How have Gymnosperm adapted to dry conditions?
+
+35. What kind of sperm do Ginkgophyta have?
+
+36. When did Cycadophyta flourish (era)?
+
+36. What kind of sperm do Cycadophyta have?
+
+36. Cycads && ginkos are the only (2) seed plants with what?
+
+38. What makes Gnetophyta similar to one another?
+
+39. What is characteristic of Coniferophyta?
+
+40. [Male Cone] ...
+
+41. Immature male gametophytes do not have what?
+
+42. How long does it take for pollen tube formation & spermatogensis to take place?
+
+43. [Female Cone] At the time of pollination ovule is ____ ( and so is the ____ gametophyte in pollen).
+
+44. How long does it take for Ovule Maturation to take place?
+
+*45*. How long after pollination does it take for fertilization to take place?
+
+47. When how long does seed dispersal take place after fertilization/pollination?
+
+48. What is Germination?
+
+49. (table)
+
+52. What is another name of Angiosperms?
+
+54. [Flower Structure & Function] What are Sepals? 
+
+54. [Flower Structure & Function] What are Pedals? 
+
+54. [Flower Structure & Function] What are Stamens? 
+
+54. [Flower Structure & Function] What are Capels? 
+
+54. [Flower Structure & Function] One or more fused carpels are call what? 
+
+55. What are the (3) main Angiosperm clades (bottom 3)?
+
+58. What are the characteristic traits of Monocots && Eudicots?
+
+*59*. What (2) things are absent from the Angiosperm Life Cycle?
+
+61. Male Gametophytes have only (2) cells.  What are they called?
+
+62. What are the (3) main steps of pollination?
+
+*63*. What is characteristic of Angiosperm that doesn't occur else where?
+
+64. Fruit = ________ + ___________.
+
+64. Once the egg is fertilized the surrounding ______ thickens forming a fruit.
+
+65. [Fruit Structure] What is the Pericarp?
+
+67. [Fruit & Dispersal] What are the three type of fruit dispersals?
 
 
-	.... left off on slide 12 ~~~
 
 				+---+---+---+---+---+---+---+---+--+
 				+--- 		Ch 31 -- Fungi	 	---+
