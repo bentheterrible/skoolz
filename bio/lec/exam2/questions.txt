@@ -30,35 +30,35 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 10. What are the 3 Synapomorphies of the Chlorophyta clade?
 
-11. Why do Volvox and cellular slime mold give insight into the origins of multicellularity?
+*11*. Why do Volvox and cellular slime mold give insight into the origins of multicellularity?
 
 12. What 2 sub-clades are included in the clade Streptophya?
 
 12. What 2 Synapomorphies of the clade Streptophyta?
 
-14. What is the one Synapomorphy b/t Charophyceans and Embryphytes?
+*14*. What is the one Synapomorphy b/t Charophyceans and Embryphytes?
 
-14. What are the 4 morphological similarities b/t Charophytes and Embryophytes(plants)?
+*14*. What are the 4 morphological similarities b/t Charophytes and Embryophytes(plants)?
 
-20. In what period did land plants arrive on Earth?
+*20*. In what period did land plants arrive on Earth?
 
-21. In what period did vascular plants (seeds) arrive on Earth?
+*21*. In what period did vascular plants (seedless) arrive on Earth?
 
-22. In what period did the first seed plants arrive on Earth?
+*22*. In what period did the first seed plants arrive on Earth?
 
 23. Until when did vascular seedless plants dominate (period)?
 
 24. Until when did seed plants dominate (period)?
 
-25-32. What are the 5 derived plant traits?
+26-32. What are the 5 derived plant traits?
 
 26. What are Apical meristems?
 
-27. What are Alternation of generations?
+*27*. What are Alternation of generations?
 
-30. What is the walled spores in sporangia?
+30. What is the walled struture covering the spores called?
 
-31. What are multicellular gametangia?
+*31*. What are multicellular gametangia?
 
 32. What are multicellular dependant embryos?
 
@@ -66,11 +66,11 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 33. What happens in the gametophyte phase?
 
-33. What are the male and female gametangia?
+*33*. What are the male and female gametangia?
 	
-33. What are spores?
+*33*. What are spores?
 
-33. What are gametes?
+*33*. What are gametes?
 
 33. What happens in the sporophyte phase?
 
@@ -78,9 +78,9 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 -- Spores vs. Gametes [table]-- 
 
-34. What is the ploidy (# of sets of chromosomes in the nucleus of a cell) of spores and gametes?
+*34*. What is the ploidy (# of sets of chromosomes in the nucleus of a cell) of spores and gametes?
 
-34. Where are spores and gametes formed?
+*34*. Where are spores and gametes formed?
 
 34. How are spores and gametes formed?
 
@@ -90,21 +90,21 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 -- Spores vs. Gametes [end]-- 
 
-35. What sub-clade consists of the non-vascular plants?
+*35*. What sub-clade consists of the non-vascular plants?
 
 36. What 3 geniuses consist of the Bryophytes?
 
 50. What is vascular tissue?
 
-50. What is Xylem?
+*50*. What is Xylem?
 
-50. What is Phloem?
+*50*. What is Phloem?
 
 51. Are vascular plants seeded or seedless?
 
-51. Do non-vascular plants have seeds?
+*51*. Do non-vascular plants have seeds?
 
-52. How are seedless vascular plants sperm brought to the egg?
+*52*. How are seedless vascular plants sperm brought to the egg?
 
 53. What are the 2 clades of seedless vascular plants?
 
@@ -112,29 +112,29 @@ NOTE: The *'ed numbers are the ones that I think are more likely to be test ques
 
 57-60. What are the 4 Vascular Plant Adaptations?
 
-57. What is sporophyte dominant?
+*57*. What is sporophyte dominant?
 
 58. What do the roots do?
 	
 59. What do Lyconphytes have in their leaves?
 
-59. What do Pterophytes and all seed plantsn have in their leaves?
+59. What do Pterophytes and all seed plants have in their leaves?
 
 60. What are Sporophylls?
 
-60. In Lycophyta _____ of the the sporphyll in strobili (cones) has sporangia that produce spores:
+60. In Lycophyta _____ of the sporphyll in strobili (cones) has sporangia that produce spores:
 
 60. In Pterophyta ____ of the sporophyll has groups of sporangia (sori) that produce spores:
 
-63. What is the Sporangia?
+*63*. What is the Sporangia?
 
-62. What is Sorus?
+63. What is Sorus?
 
-62. What does indusium do?
+63. What does Indusium do?
 
 66. What is the difference between homosporous and heterosporous plants?
 
-66. Most seedless vascular plants are?	
+*66*. Most seedless vascular plants are?	
 
 66. Homosporous: have 1 type of sporangium (3 things):
 
@@ -149,7 +149,7 @@ Sporophyte --> (Single type of spore) --> (typically a bisexual gametophyte) --|
 ----------------------------------------------------------------------------------------------------------
 
 
-67. All seed plants and a few seedless vascular plants are?
+*67*. All seed plants and a few seedless vascular plants are?
 
 67. Heterosporous: have 2 types of sporangia (2 things):
 
