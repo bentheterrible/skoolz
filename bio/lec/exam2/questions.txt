@@ -407,9 +407,9 @@ hint: os-cp (periods)
 
 2. _________ = Metazoa
 
-3. What period did the first animal appear in?
+*3*. What period did the first animal appear in?
 
-3. What period did the Animal Diversification appear in (not Cambrian)?
+*3*. What period did the Animal Diversification appear in (not Cambrian)?
 
 4. What are the (3) hypotheses of what caused the Cambrian Explosion?
 
@@ -429,13 +429,13 @@ hint: os-cp (periods)
 
 12. What is the motility of Animals?
 
-13. What type of life cycle do Animals have?
+*13*. What type of life cycle do Animals have?
 
 17. How do most Animals reproduce?
 
 17. Describe the life cycle of Animals in terms of the diploid-haploid dicotomy?
 
-17. What (2) things occur nearly simultaneouls thus called ______?
+*17*. What (2) things occur nearly simultaneouls thus called ______?
 
 18. What are the four morphological characteristics used to categorize animal body plans?
 
@@ -455,7 +455,7 @@ hint: os-cp (periods)
 
 23. What are the four types of tissues?
 
-23. What are the (2) tissues that are unique to Animals?
+*23*. What are the (2) tissues that are unique to Animals?
 
 24. [Formation fo embryonic Germ Layer] What is the Cleavage?
 
@@ -471,7 +471,7 @@ hint: os-cp (periods)
 
 25. What are examples of Endoderm?
 
-27. How many tissue layers do sponges have?
+*27*. How many tissue layers do sponges have?
 
 28. What is a Diploblastic Body Plan?
 
@@ -479,7 +479,7 @@ hint: os-cp (periods)
 
 30. What are the (3) types of Organization of body cavity?
 
-31. Most Triploblastic phyla have a body cavity also called what?
+*31*. Most Triploblastic phyla have a body cavity also called what?
 
 31. What are the differences between Acoelomates, Coelomates, and Pseudocoelomates?
 
@@ -487,7 +487,7 @@ hint: os-cp (periods)
 
 33. What are the (2) developmental modes of Animals?
 
-34. [Protostomes | Deuterostomes] How does the fate of blastopore differ?
+*34*. [Protostomes | Deuterostomes] How does the fate of blastopore differ?
 
 35. [Protostomes | Deuterostomes] How the cleavage differ?
 
@@ -501,7 +501,7 @@ hint: os-cp (periods)
 
 43. What is one thing that we can agree on as far as Metazoa (multicellular animals) and Phylogeny?
 
-44. What are Choanoflagellates?
+*44*. What are Choanoflagellates?
 
 44. How do we know that Choanoflagellates are similar to Metazoa?
 
