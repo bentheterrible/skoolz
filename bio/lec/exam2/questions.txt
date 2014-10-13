@@ -321,7 +321,7 @@ hint: os-cp (periods)
 	
 7. What is peculiar about the Armillaria (honey fungus)?
 
-8. Which subclades of fungus are unicellular?  What are these called?
+*8*. Which subclades of fungus are unicellular?  What are these called?
 
 8. Do they have both stages or just one?
 
@@ -333,11 +333,11 @@ hint: os-cp (periods)
 
 11. What are the cell walls of Fungi mostly made of?
 
-12. What is characteristic of Septate species?
+*12*. What is characteristic of Septate species?
 
-12. What is characteristic of Aseptate species?
+*12*. What is characteristic of Aseptate species?
 
-13. What do the pores in septa allow for in the hypae?
+*13*. What do the pores in septa allow for in the hypae?
 
 14. All fungi are ______ heterotrophs.
 
@@ -349,13 +349,13 @@ hint: os-cp (periods)
 
 14. [Nourishment] What is Predatory?
 
-15. What kind of enzymes are secreted in Saprobic Fungi?
+*15*. What kind of enzymes are secreted in Saprobic Fungi?
 
-16. What are haustorium use for?
+*16*. What are haustorium use for?
 
-19. How do Unicellular Fungi usually reproduce?
+*19*. How do Unicellular Fungi usually reproduce?
 
-20. What are the (3) types of multicellular sexual reproduction in different Eukaryotes?
+*20*. What are the (3) types of multicellular sexual reproduction in different Eukaryotes?
 
 ** I need to go over Haploid Dominant | Diploid Dominant ** 
 
@@ -383,9 +383,9 @@ hint: os-cp (periods)
 
 39. What are the impacts of Fungi?
 
-40. Fungi are decomposers that are the only ones who breakdown what (2) things?
+*40*. Fungi are decomposers that are the only ones who breakdown what (2) things?
 
-49. Fungi supplies ____ for plants && plants supply ____ for fungi.
+*49*. Fungi supplies ____ for plants && plants supply ____ for fungi.
 
 69. What are the (2) clades of Amoebozoa?
 
@@ -393,7 +393,7 @@ hint: os-cp (periods)
 
 69. What are Entamoabas?
 
-73. What makes slime mold different from fungi?
+*73*. What makes slime mold different from fungi?
 
 				+---+---+---+---+---+---+---+---+--+--+--+--+--+
 				+--- 	Ch 32 -- Intro to Animal Diversity	---+
