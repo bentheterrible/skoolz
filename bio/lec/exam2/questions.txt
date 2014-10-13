@@ -169,6 +169,7 @@ Sporophytes --+
 				+---+---+---+---+---+---+---+---+--+
 				+--- Ch 30 -- Plant Diversity II---+
 				+---+---+---+---+---+---+---+---+--+
+hint: os-cp (periods)
 
 3. Seed plants have dominated for how long?
 
@@ -180,7 +181,7 @@ Sporophytes --+
 
 5. What are the (4) derived traits of seed plants?
 
-6. [Reduced Gametophyte] Seed plants gametophytes develop from spores ____. 
+*6*. [Reduced Gametophyte] Seed plants gametophytes develop from spores ____. 
 
 6. [Reduced Gametophyte] Evolutionary trend towards 2 things:
 
@@ -204,13 +205,13 @@ Sporophytes --+
 
 12. ...
 
-13. What (2) things do seeds contain?
+*13*. What (2) things do seeds contain?
 
 15. [Pollen] Each microspore develops into a pollen grain containing a _____ gametophyte.
 
 15. [Pollen] How is Pollen transferred to ovule?
 
-17. [Pollination] Movement of immature ____ gametophye, in pollen grain, near the immature ____ gametophyte in the ovule.
+*17*. [Pollination] Movement of immature ____ gametophye, in pollen grain, near the immature ____ gametophyte in the ovule.
 
 17. What are (2) ways that plants get pollinated?
 
@@ -222,17 +223,17 @@ Sporophytes --+
 
 25. [Bat Pollination] Happens in _____ anigosperm only.
 
-27. What is pollination?
+*27*. What is pollination?
 
-27. What is fertilization?
+*27*. What is fertilization?
 
-27. When does fertilization occur?
+*27*. When does fertilization occur?
 
-28. (table)
+*28*. (table)
 
-29. (table)
+*29*. (table)
 
-30. (table)
+*30*. (table)
 
 32. What are the defining traits of Gymnosperm?
 
@@ -246,7 +247,7 @@ Sporophytes --+
 
 36. What kind of sperm do Cycadophyta have?
 
-36. Cycads && ginkos are the only (2) seed plants with what?
+*36*. Cycads && ginkos are the only (2) seed plants with what?
 
 38. What makes Gnetophyta similar to one another?
 
@@ -256,7 +257,7 @@ Sporophytes --+
 
 41. Immature male gametophytes do not have what?
 
-42. How long does it take for pollen tube formation & spermatogensis to take place?
+*42*. How long does it take for pollen tube formation & spermatogensis to take place?
 
 43. [Female Cone] At the time of pollination ovule is ____ ( and so is the ____ gametophyte in pollen).
 
@@ -290,15 +291,15 @@ Sporophytes --+
 
 61. Male Gametophytes have only (2) cells.  What are they called?
 
-62. What are the (3) main steps of pollination?
+*62*. What are the (3) main steps of pollination?
 
-*63*. What is characteristic of Angiosperm that doesn't occur else where?
+**63**. What is characteristic of Angiosperm that doesn't occur else where?
 
-64. Fruit = ________ + ___________.
+*64*. Fruit = ________ + ___________.
 
 64. Once the egg is fertilized the surrounding ______ thickens forming a fruit.
 
-65. [Fruit Structure] What is the Pericarp?
+*65*. [Fruit Structure] What is the Pericarp?
 
 67. [Fruit & Dispersal] What are the three type of fruit dispersals?
 
