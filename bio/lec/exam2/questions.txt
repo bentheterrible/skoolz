@@ -526,9 +526,9 @@ hint: os-cp (periods)
 				+---+---+---+---+---+---+---+---+--+
 				+--- 	Ch 33 -- Invertebrates	---+
 				+---+---+---+---+---+---+---+---+--+
-3. What is classified as a invertebrate?
+*3*. What is classified as a invertebrate?
 
-3. Are invertebrates monophylectic?
+*3*. Are invertebrates monophylectic?
 
 4. What is Porifera?
 
