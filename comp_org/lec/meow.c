@@ -25,13 +25,25 @@ int main() {
 			fscanf(ifp, "%d", sets[col]);
 		}
 
-		// Calculate Times	
-		best_time = times[0]
-		worst_time = times[0]
 
 		// Calculate Times	
-		best_time = times[0]
-		worst_time = times[0]
+		best_time = times[0];		// Default the best time to first time
+		worst_time = times[0];		// Default the worst time to first time
+
+		// Calculate Sets 
+		best_sets = sets[0];		// Default the best set to first set 
+		worst_sets = sets[0];		// Default the worst set to first set 
+
+		// As of now the best/worst times and sets are defaulted to the first
+		// value of each one of the arrays
+		//
+		// This next loop runs through each one of the loops and tests to see
+		// if any of the values beat the best/worst times or sets and UPDATE
+		// the new best/worst time or set
+		//
+		// Inside it adds up all the values and when it exists the loop it
+		// divides the sum total of times/sets by the number of times and 
+		// sets to give you the average :3 
 
 		// Find best/worst times
 		for (i = 0; i < 12; i++) {
