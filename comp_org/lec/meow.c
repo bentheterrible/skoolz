@@ -2,6 +2,7 @@
 
 int main() {
 
+	//	hello 
 	int row, col;
 	double var;
 	for(row = 1; row <= 20; row++) {
