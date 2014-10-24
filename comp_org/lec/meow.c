@@ -6,7 +6,8 @@ int main() {
 
 	double times[12];
 	int sets[12];
-	
+	int i;	
+
 	double best_time, worst_time, average_time;
 	int most_sets, least_sets, average_sets;
 
@@ -24,9 +25,49 @@ int main() {
 			fscanf(ifp, "%d", sets[col]);
 		}
 
-	
-		// Figure out the logic for everything
-		
+		// Calculate Times	
+		best_time = times[0]
+		worst_time = times[0]
+
+		// Calculate Times	
+		best_time = times[0]
+		worst_time = times[0]
+
+		// Find best/worst times
+		for (i = 0; i < 12; i++) {
+			
+			// Check for best time
+			if (times[i] > best_time) {
+				best_time = time[i]
+			}
+
+			// Check for worst time
+			if (times[i] < worst_time) {
+				worst_time = time[i]
+			}
+			
+			// Check for the best set	
+			if (sets[i] > best_sets) {
+				best_sets = sets[i];
+			}
+
+			// Check for the best set	
+			if (sets[i] < worst_sets) {
+				worst_sets = sets[i];
+			}
+
+			// Add up all the times	
+			average_time += time[i];
+
+			// Add up all the sets 
+			average_sets += time[i];
+		}	
+
+		// Divide by number of times to get average time
+		average_time /= 12.0;
+
+		// Divide by number of sets to get average sets 
+		average_sets /= 12;
 
 		// Output
 		printf("Participant #%d\n", row+1);
