@@ -72,7 +72,7 @@ int main() {
 			average_time += time[i];
 
 			// Add up all the sets 
-			average_sets += time[i];
+			average_sets += sets[i];
 		}	
 
 		// Divide by number of times to get average time
