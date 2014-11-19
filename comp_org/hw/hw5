@@ -1,0 +1,13 @@
+Consider the following fragment of C code: 
+     for (i=0; i<=100; i++) {
+           a[i] = b[i] + C ;
+     }
+Assume that a and b are arrays of words and the base 
+address of a is in $a0 and the base address of b is 
+in $a1. Register $t0 holds the variable i and register 
+$s0 the constant C. Write the code for MIPS. How many 
+instructions are executed during the running of your 
+code? How many memory data references will be made 
+during execution?
+
+
