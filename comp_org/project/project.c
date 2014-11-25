@@ -393,6 +393,10 @@ int rw_memory(unsigned ALUresult,unsigned data1,char MemWrite,char MemRead,unsig
 *		signal determines this). If your RegDst control signal is 0, you're going to be writing to r2 and if it's 1, you're going to be writing
 *		to r3. 
 ***/
+/* This function first checks to if you RegWrite is even enabled, because if not we can by pass everything a return nothing w/o doing
+ * and work.  If RegWrite is enabled MemtoReg controls whether the program is writing from memory of the ALU's results.  If MemtoReg is
+ *
+ */
 void write_register(unsigned r2,unsigned r3,unsigned memdata,unsigned ALUresult,char RegWrite,char RegDst,char MemtoReg,unsigned *Reg) {
 
 	// only write if RegWrite is enabled otherwise return w/o doing anything
@@ -420,25 +424,27 @@ void write_register(unsigned r2,unsigned r3,unsigned memdata,unsigned ALUresult,
 
 /* PC update */
 /* 10 Points */
-/*** Program Counter update
-*		In the Program Counter update stage, you have to check your Jump, Branch and Zero control signals to see if you're going
-*		to update your program counter by a number other than the usual 4. If the Jump control signal is 1, then you know you're going
-*		to have to use a masked and shifted jsec value, which represents a location in memory. If your Branch control signal is one AND
-* 		your Zero control signal is 1 (signifying that the branch IF EQUAL condition is met), then you change your Program Counter by the 
-*		offset plus 4. 
-***/
+
+/* This function updates the program counter to point to the next instruction.  It starts by incrementing the PC 
+ * by 4 to point to the very next instruction.  It also, handles when the a jump occurs as wells as a branch.  
+ * When a branch (beq) occurs the PC counter is updated by the offset.  And when a Jump occurs the PC is masked
+ * and then added (bitwise OR) with the jsec.
+ */
 void PC_update(unsigned jsec,unsigned extended_value,char Branch,char Jump,char Zero,unsigned *PC) {
+	
+	// increment the program counter --> to the next instruction is memory	
+	*PC += 4;
 
+	// add the extended value to the program count when both Branch (beq) and Zero are 1	
+	if (Branch == '1' && Zero == '1') {
+		*PC += extended_value << 2;
+	}	
+	
+	// 0xF0000000 mask --> 1111 1000 0000 0000 0000 0000 0000 0000 (32-bit binary number) 
+	// here we are only interested in the first 4 MSB of the Program Counter
+	// and then we bitwise or the masked PC with the jsec shifted left by 2 
 	if (Jump == '1') {
-		*PC = (*PC & 0xF8000000) + (jsec << 2);	
-	}
-
-	else if (Branch == '1' && Zero == '1') {
-		*PC = *PC + (extended_value << 2) + 4; 
-	}
-
-	else{
-		*PC = *PC + 4;
+		*PC = (*PC & 0xF0000000) | (jsec << 2);	
 	}
 
 	return;
