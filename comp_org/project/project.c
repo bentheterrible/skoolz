@@ -319,16 +319,16 @@ int ALU_operations(unsigned data1,unsigned data2,unsigned extended_value,unsigne
 		return 1;
 	}
 
-	// I-Type and Branching
+	// I-Type && Branching
 	else if (ALUSrc == '1') {
 
-		// Add Immiediate, Store Word, and Load Word
+		// addi && sw && lw
 		if(ALUOp == '0') {
 			ALU(data1, extended_value, ALUOp, ALUresult, Zero); 
 			return 0;
 		} 
 
-		// 
+		// slti 
 		else if(ALUOp == '2') {
 			ALU(data1, extended_value, ALUOp, ALUresult, Zero); 
 			return 0;
@@ -340,7 +340,6 @@ int ALU_operations(unsigned data1,unsigned data2,unsigned extended_value,unsigne
 			ALU(data1, extended_value, ALUOp, ALUresult, Zero); 
 			return 0;
 		}
-
 
 		// lui
 		else if(ALUOp == '6') {
@@ -394,25 +393,29 @@ int rw_memory(unsigned ALUresult,unsigned data1,char MemWrite,char MemRead,unsig
 *		signal determines this). If your RegDst control signal is 0, you're going to be writing to r2 and if it's 1, you're going to be writing
 *		to r3. 
 ***/
-void write_register(unsigned r2,unsigned r3,unsigned memdata,unsigned ALUresult,char RegWrite,char RegDst,char MemtoReg,unsigned *Reg)
-{
-	if (RegWrite == '1')
-	{
-		if (MemtoReg == '0')
-		{
-			if (RegDst == '0')
-				Reg[r2] = ALUresult;
-			else if (RegDst == '1')
-				Reg[r3] = ALUresult;
+void write_register(unsigned r2,unsigned r3,unsigned memdata,unsigned ALUresult,char RegWrite,char RegDst,char MemtoReg,unsigned *Reg) {
+
+	// only write if RegWrite is enabled otherwise return w/o doing anything
+	if (RegWrite == '1') {
+
+		if (MemtoReg == '0' && RegDst == '0') {
+			Reg[r2] = ALUresult; 
 		}
-		else if (MemtoReg == '1')
-		{
-			if (RegDst == '0')
-				Reg[r2] = memdata;
-			else if (RegDst == '1')
-				Reg[r3] = memdata;
+
+		else if (MemtoReg == '0' && RegDst == '1')	{ 
+			Reg[r3] = ALUresult; 
+		}
+
+		else if (MemtoReg == '1' && RegDst == '0') {
+			Reg[r2] = memdata; 
+		}
+
+		else if (MemtoReg == '1' && RegDst == '1') { 
+			Reg[r3] = memdata; 
 		}
 	}
+
+	return;
 }
 
 /* PC update */
@@ -424,18 +427,19 @@ void write_register(unsigned r2,unsigned r3,unsigned memdata,unsigned ALUresult,
 * 		your Zero control signal is 1 (signifying that the branch IF EQUAL condition is met), then you change your Program Counter by the 
 *		offset plus 4. 
 ***/
-void PC_update(unsigned jsec,unsigned extended_value,char Branch,char Jump,char Zero,unsigned *PC)
-{
-	if (Jump == '1')
-	{
+void PC_update(unsigned jsec,unsigned extended_value,char Branch,char Jump,char Zero,unsigned *PC) {
+
+	if (Jump == '1') {
 		*PC = (*PC & 0xF8000000) + (jsec << 2);	
 	}
-	else if (Branch == '1' && Zero == '1')
-	{
+
+	else if (Branch == '1' && Zero == '1') {
 		*PC = *PC + (extended_value << 2) + 4; 
 	}
-	else
-	{
+
+	else{
 		*PC = *PC + 4;
 	}
+
+	return;
 }
