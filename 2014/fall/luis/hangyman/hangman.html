@@ -1,0 +1,122 @@
+<!Doctype html>
+<html>
+<head>
+	<title>Hangman</title>
+	
+	<script type="text/javascript">
+		// Randomly select a word from the Array
+		function getWord()
+		{
+			// TODO Initialize array words using the condensed format with a minimum of 15 words up to as many choose
+			var words = new Array('apple', 'bat', 'cat', 'dog', 'elephant', 'frog', 'gametes', 'horse', 'illness', 'javascript', 'krab', 'limbs', 'mouse', 'no', 'on');
+
+			/* TODO Generate a random index value using Math object methods Math.floor, Math.random, 
+			        and the scaling factor based on the length of the words array defined above */
+			var index = Math.floor( Math.random() * 15 );
+
+			return words[index];
+		}
+
+		// Given a string, "word", return a hidden version of it consisting of dashes for the display.		
+		function getDisplay(word)
+		{   
+			var display = "";
+			
+			for (var i = 0; i < word.length; i++)
+			{
+				// TODO Loop through the length of the selected word and update display with dashes
+				display += "_ ";
+			}
+
+			return display;
+		}
+
+		// This is the main function that runs the program
+		function start()
+		{
+			// TODO create a variable called guessInt set equal to 6
+			var guessInt = 6;
+
+			// TODO create a variable called word set equal to function call getWord()
+			var word = getWord();
+
+			// TODO create a variable called display set equal to function call getDisplay() passing variable word as an argument 
+			var display = getDisplay(word);
+
+			// TODO create a variable called guessStr set equal to "You have " concatenated with variable guessInt concatenated with " tries left"
+			var guessStr = "You have " + guessInt + " tries left";
+
+			// TODO update HTML object id "guesses" so it equals variable guessStr
+			document.getElementById("guesses").innerHTML = guessStr;
+
+			// TODO update HTML object id "theWord" so it equals variable word
+			document.getElementById("theWord").innerHTML = word;
+
+			// TODO update HTML object id "theDashes" so it equals variable display
+			document.getElementById("theDashes").innerHTML = display;
+		}
+		
+	</script>
+</head>
+<body>
+	<script type="text/javascript">
+	</script>
+	<div id="header">
+		<img src ="hangman_large.png" style="float:left" width:"100" height="100">
+			<hr/>
+			<h1 align="center">Hangman</h1>
+			<hr/>
+		</img>
+	</div>
+	<br/>
+	<div id="letters" style="width:400px;float:left;">
+		<table>
+			<tr>
+				<td><input type="submit" value="A" id="A" /></td>
+				<td><input type="submit" value="B" id="B" /></td>
+				<td><input type="submit" value="C" id="C" /></td>
+				<td><input type="submit" value="D" id="D" /></td>
+				<td><input type="submit" value="E" id="E" /></td>
+				<td><input type="submit" value="F" id="F" /></td>
+				<td><input type="submit" value="G" id="G" /></td>
+			</tr>
+			<tr>
+				<!-- TODO add buttons for letters H through N -->
+				<td><input type="submit" value="H" id="H" /></td>
+				<td><input type="submit" value="I" id="I" /></td>
+				<td><input type="submit" value="J" id="J" /></td>
+				<td><input type="submit" value="K" id="K" /></td>
+				<td><input type="submit" value="L" id="L" /></td>
+				<td><input type="submit" value="M" id="M" /></td>
+				<td><input type="submit" value="N" id="N" /></td>
+			</tr>
+			<tr>
+				<!-- TODO add buttons for letters O through U -->
+				<td><input type="submit" value="O" id="O" /></td>
+				<td><input type="submit" value="P" id="P" /></td>
+				<td><input type="submit" value="Q" id="Q" /></td>
+				<td><input type="submit" value="R" id="R" /></td>
+				<td><input type="submit" value="S" id="S" /></td>
+				<td><input type="submit" value="T" id="T" /></td>
+				<td><input type="submit" value="U" id="U" /></td>
+			</tr>
+			<tr>
+				<!-- TODO add buttons for letters V through Z -->
+				<td><input type="submit" value="V" id="V" /></td>
+				<td><input type="submit" value="W" id="W" /></td>
+				<td><input type="submit" value="X" id="X" /></td>
+				<td><input type="submit" value="Y" id="Y" /></td>
+				<td><input type="submit" value="Z" id="Z" /></td>
+			</tr>
+		</table>
+
+		<input type="submit" style="width:150;height:50" value="Play" id="play" class="restart" onclick="start()"/>
+	</div>
+	<div style="width:400px;float:left;">
+		<h2>Let's Play!</h2>
+		<h3 id="guesses"></h3>
+		<h2 id="theWord"></h2>
+		<h2 id="theDashes"></h2>
+	</div>
+</body>
+</html>
